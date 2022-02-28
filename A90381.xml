@@ -1,0 +1,1484 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De morbis puerorum, or, a treatise of the diseases of children; with their causes, signs, prognosticks, and cures, for the benefit of such as do not understand the Latine tongue, and very useful for all such as are house-keepers, and have children. With the contents of the several chapters, as also an alphabetical table of all the diseases mentioned herein. By Robert Pemell practitioner in physick, at Cranebrooke in Kent. May the 29. 1653.</title>
+            <author>Pemell, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 129 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90381</idno>
+            <idno type="STC">Wing P1132</idno>
+            <idno type="STC">Thomason E721_3</idno>
+            <idno type="STC">ESTC R207213</idno>
+            <idno type="EEBO-CITATION">99866282</idno>
+            <idno type="PROQUEST">99866282</idno>
+            <idno type="VID">118549</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90381)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118549)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 111:E721[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>De morbis puerorum, or, a treatise of the diseases of children; with their causes, signs, prognosticks, and cures, for the benefit of such as do not understand the Latine tongue, and very useful for all such as are house-keepers, and have children. With the contents of the several chapters, as also an alphabetical table of all the diseases mentioned herein. By Robert Pemell practitioner in physick, at Cranebrooke in Kent. May the 29. 1653.</title>
+                  <author>Pemell, Robert.</author>
+               </titleStmt>
+               <extent>[4], 58, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Legatt, for Philemon Stephens, at the guilded Lion in Pauls Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou. 29.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118549:1" rendition="simple:additions"/>
+            <p>
+               <hi>De Morbis Querorum,</hi> OR, A TREATISE OF The Diſeaſes of Children; WITH Their Cauſes, Signs, Prognoſticks, and Cures, for the benefit of ſuch as do not underſtand the Latine Tongue, and very uſe<g ref="char:EOLhyphen"/>ful for all ſuch as are Houſe-keepers, and have Children. With the Contents of the ſeveral Chapters, as alſo an Alphabetical Table of all the Diſeaſes mentioned herein.</p>
+            <p>By <hi>ROBERT PEMELL</hi> Practitioner in <hi>Phyſick,</hi> at <hi>Cranebrooke</hi> in <hi>Kent.</hi> May the 29. 1653.</p>
+            <p>LONDON, Printed by <hi>J. Legatt,</hi> for <hi>Philemon Stephens,</hi> at the guilded Lion in <hi>Pauls</hi> Church-yard. 1653.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118549:2"/>
+            <pb facs="tcp:118549:2"/>
+            <head>The Authour to the Reader.</head>
+            <opener>
+               <salute>Kind Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">P</seg>Romiſe is a debt; In my Book of the nature of Simples I did promiſe to do ſomething more that might be helpful to young Practitioners, as alſo to the Vulgar; I have therefore taken ſome pains to write, concerning the diſeaſes of Children, and have handled them methodically, that ſo it might be more uſeful and profitable to ſuch as ſhall Read the ſame. And becauſe I ſee my glaſſe runs apace, and I know not how ſhort my time is, therefore I have made the more haſt, and taken the preſent advantage: yet have I not made it my <hi>hoc age,</hi> my onely buſines, but have done it at rapt hours. Whatever I have done I now offer it to thy view, and ſubmit to thy Charitable cenſure, deſiring my good will and affection may be accepted.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>December.</hi> 1. 1652.</date>
+               </dateline>
+               <signed>
+                  <hi>Thine to ſerve in what I may.</hi> Robert Pemel Medicus.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:118549:3"/>
+            <head>The Contents of the ſeveral Chapters.</head>
+            <list>
+               <item>
+                  <hi>OF <g ref="char:V">Ʋ</g>lcers and ſores in childrens heads.</hi> Chapter 1.</item>
+               <item>
+                  <hi>Of Lice,</hi> Chap. 2.</item>
+               <item>
+                  <hi>Of the Scab and Itch.</hi> Chap. 3.</item>
+               <item>
+                  <hi>Of the Falling ſickneſſe and Convulſion,</hi> Chap. 4.</item>
+               <item>
+                  <hi>Of pain in the ears, with inflammation,</hi> Chap. 5.</item>
+               <item>
+                  <hi>Of breeding and coming of Teeth.</hi> Chap. 6.</item>
+               <item>
+                  <hi>Of inflammation of the mouth and throat, with ulcers and ſores thereof,</hi> Chap. 7.</item>
+               <item>
+                  <hi>Of Feavers,</hi> Chap. 8.</item>
+               <item>
+                  <hi>Of the ſmall Pox and Meaſels,</hi> Chap. 9.</item>
+               <item>
+                  <hi>Of watching out of meaſure and want of reſt,</hi> Chap. 10.</item>
+               <item>
+                  <hi>Of fear, ſtarting and terrible Dreams,</hi> Chap. 11.</item>
+               <item>
+                  <hi>Of Rheume, the Cough, and ſhortneſſe of breath,</hi> Chap. 12.</item>
+               <item>
+                  <hi>Of Vomiting, and weakneſſe of the ſtomach,</hi> Chap. 13.</item>
+               <item>
+                  <hi>Of the Conſumption, or leanneſſe, and of the Rickets,</hi> Chap. 14.</item>
+               <item>
+                  <hi>Of the Hicket,</hi> Chap. 15.</item>
+               <item>
+                  <hi>Of Gripings and fretings in the belly,</hi> Chap. 16.</item>
+               <item>
+                  <hi>Of looſeneſſe and flux of the belly,</hi> Chap. 17.</item>
+               <item>
+                  <hi>Of Coſtiveneſſe and ſtopping of the belly,</hi> Chap. 18.</item>
+               <item>
+                  <hi>Of Worms,</hi> Chap. 19.</item>
+               <item>
+                  <hi>Of Ruptures and Burſtings,</hi> Chap. 20.</item>
+               <item>
+                  <hi>Of ſwelling, or coming forth of the Navel,</hi> Chap. 21.</item>
+               <item>
+                  <hi>Of inflammation of the Navel,</hi> Chap. 22.</item>
+               <item>
+                  <hi>Of the ſwelling of the Cods.</hi> Chap. 23.</item>
+               <item>
+                  <hi>Of falling of the Fundament,</hi> Chap. 24.</item>
+               <item>
+                  <hi>Of the Stone, and difficulty of making water,</hi> Chap. 25.</item>
+               <item>
+                  <hi>Of Piſſing in bed,</hi> Chap. 26.</item>
+               <item>
+                  <hi>Of the diſeaſe called Saint Anthonies fire, or wilde fire, as alſo of burning and ſcalding,</hi> Chap. 27.</item>
+               <item>
+                  <hi>Of fretting, chafing, or galling of the skin in the groines,</hi> Chap. 28.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118549:3"/>
+            <head>Of the diſeaſes of Children.</head>
+            <div n="1" type="chapter">
+               <head>CHA.P. I. Of Ulcers and ſores in Childrens heads.</head>
+               <p>
+                  <seg rend="decorInit">C</seg>Hildren are many times troubled with run<g ref="char:EOLhyphen"/>ning ſores and ulcers in their head, both when they ſuck, and when they be wea<g ref="char:EOLhyphen"/>ned.</p>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>The cauſe hereof are excrementitious humors thin and ſharp, or they proceed from a mixt humour, partly thin and ſharp, and partly thick and melancholy and altogether ſalt and nitrous; from whence theſe ulcers and ſores look ſometimes white, ſometimes red, ſometimes yellow, and ſometimes black, alwayes ſalt and fretting whereby they cauſe itching, and from thence they are forced often to ſcratch. Now theſe humours are gather<g ref="char:EOLhyphen"/>ed together, or produced partly in the womb from the impurity of the mothers blood, whereby the infant is nouriſhed; partly from the vitiouſneſſe or corruption of the milk, whereby the infants are nouriſhed either from the mother or nurſe.</p>
+               </div>
+               <div type="signs">
+                  <head>The ſigns are Manifest.</head>
+                  <p>Theſe ſores and ulcers if they be but gentle and eaſie are judged
+<pb n="2" facs="tcp:118549:4"/>
+to be very healthful for children, becauſe nature expelleth ill and noxious humours from the inward parts to the outward, and if they dry up, many times children fall into fears and other diſeaſes: <hi>Hippocrates</hi>
+                     <note n="*" place="bottom">
+                        <hi>De morb. ſac. fol.</hi> 139.</note> ſaith, that if ulcers or ſores ariſe in the heads of chil<g ref="char:EOLhyphen"/>dren, or in their ears, or face, or in any other part of their body, they are freed from the falling ſickneſſe. Theſe ulcers are many times cured without means, as ſtrength and age increaſeth. If they continue long and run much, it is to be feared leaſt theſe exulcera<g ref="char:EOLhyphen"/>tions pierce to the skul and brain. If theſe ulcers continue long and grow cruſty and black, they are hard to cure.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>Concerning the Cure care muſt be taken that ſuch things as are cooling and binding be not uſed. Let the Nurſe uſe a good Dyet, and abſtain from all ſharp and ſalt meats, and ſuch as breed vitious or bad juyces; as Onions, Garlick, Leeks, Peeſe, Beans, Raddiſh, ſalt Beef, Porke, &amp;c: If the Nurſe have need of purging, give her a purge, of the Electuary called Confectio Hamech, or Diaca<g ref="char:EOLhyphen"/>tholicon; and let her uſe Burrage, Bugloſſe, Fumitory, Sorrel, Succo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>y, &amp;c. Or ſirup of any of theſe. The child if of any big<g ref="char:EOLhyphen"/>neſſe may take the ſirups likewiſe, or half an ounce of Manna, or more according to its age.</p>
+               </div>
+               <div type="prescription">
+                  <head>A Bath.</head>
+                  <p>Firſt, let the childs head be bathed with a decoction of Mal<g ref="char:EOLhyphen"/>lows, and Barly, or with a decoction of Dock roots, mallows, Ce<g ref="char:EOLhyphen"/>lendine the greater, Wormwood, Fenegreek, Cicers, Lupines, Beans, &amp;c. If there be need of greater cleanſing, you may boyl the foregoing herbs in wine; or make a Lotion with decoction of Marſhmallow roots, made with Urine of the infant alone, or mixt wih Barly water. Then anoint the head with oyl of Roſes and oyl of bitter Almonds mixed with a little litharge of gold or ſilver in fine powder; or take of the juyce of Beets and Celendine the greater of each one ounce, Hogs greaſe two ounces; boyl them together a while, then being almoſt cold put in of Brimſtone in powder a drachme, make an ointment, with which anoint the parts affected morning and evening. Or waſh the head with Sope-ſuds made ſtrong. If theſe ulcers eat to the skul, then uſe hony of Ro<g ref="char:EOLhyphen"/>ſes mixed with a little ſpirit of Wine, and afterwards the powder Birthwort and natural Balſam.</p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="3" facs="tcp:118549:4"/>
+               <head>CHAP. 2. Of Lice breeding in Children.</head>
+               <p>IF perſons of years do live naſtily and not change often, they ſoon become louſey. But tis very familiar for Children to breed Lice.</p>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>They ariſe from a hot and moiſt matter which putrifieth in the skin, or pores of the body. Sometimes they are bred by eating of Figs, in grown perſons becauſe they ingender bad juyce.</p>
+               </div>
+               <div type="signs">
+                  <head>The ſigns.</head>
+                  <p>The ſigns are apparent, for the lice are bred both nhead and body.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognoſticks.</head>
+                  <p>This diſeaſe is a foul and filthy diſeaſe, and very troubleſome, becauſe it cauſeth a conſtant ſcratching, but eſpecially if they breed in the whole body as many times it happneth. Lice are wont to leave thoſe that are ready to die, and to creep away in heaps, which ſurely cometh to paſſe becauſe that hot moiſt nouriſhment (which bred them) is wanting, and noyſome vapours ariſe from the party ready to die. If lice be onely in the head, in many it preſerves their health, becauſe they conſume much excrementitious humors. Lice are engendred in the beginning of the Leproſie, and in the ſe<g ref="char:EOLhyphen"/>cond and third kinds of hectick Feavers. If they breed much and that all over the body, they are not onely very irkſome, but ſome<g ref="char:EOLhyphen"/>times bring death.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>Firſt, for the prevention of lice, and to hinder the breeding of them, it will be very neceſſary to keep the child often changed, and to comb often the head, and to avoid all meats of ill juyce. If the child be of any bigneſſe the body may be purged in this manner.</p>
+                  <p>Take of Sene and Polipodium of each two drachmes. Fumito<g ref="char:EOLhyphen"/>ry one drachme and a half, Cream of Tartar a drach. Licorice and Anniſeed, of each a drachme; bruiſe the Polipodium and Licorice, then infuſe or ſteep them all in half a pint of water on hot embers,
+<pb n="4" facs="tcp:118549:5"/>
+and afterwards gently boyl them; ſtrain it, and to the clear add of ſirup of Roſes one ounce: let the child take every morning two or three ſpo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nfuls faſting, and faſt one hour after it, then to take ſome warm poſſet-drink or broth. Make a bath as followeth.</p>
+               </div>
+               <div type="prescription">
+                  <head>A Bath.</head>
+                  <p>Take of Elecampane root bruiſed two ounces, white Briony root bruiſed half an ounce, Beets, Mercury, Sopewort, Centory the leſſer, of each a handfull, Lupines bruiſed one ounce, Nitre half an ounce; boyl theſe in water and make a bath for the head, with which let the head be bathed morning and evening warm. After bathing anoint the head once or twice a day (if a ſtrong child twice, if a weak child but once,) with this oyntment following.</p>
+               </div>
+               <div type="prescription">
+                  <head>An oyntment.</head>
+                  <p>Take of Staveſacre one ounce, Wormwood, Rue, of each half an ounce, Brimſtone, and Nitre, of each two drachmes, make all into powder, and with two or three ounces of oyl of Bayes, and one ounce of oyl of Wormwood make an oyntment.</p>
+                  <p>Or take of Brimſtone in powder half an ounce, of Staveſacre in powder one ounce, oyl of Wormwood two ounces and a half, vi<g ref="char:EOLhyphen"/>negar one ounce; make all into an oyntment, and uſe it as before is ſhewed.</p>
+                  <p>Or take ſeawater, or elſe Brine and ſtrong lee of Aſhes, of each a quart, Wormwood a good handful or two; boyl it a while therein, and afterwards waſh the body or head therewith. Many uſe ſtronger oyntments made with Arſenick, or Quickſilver, and white Hellebor, but for young children it is not ſafe to uſe them.</p>
+                  <p>This powder following is very good and ſafe.</p>
+               </div>
+               <div type="prescription">
+                  <head>A powder good and ſafe for Lice in the head.</head>
+                  <p>Take of Coculus Indy a quarter of an ounce, white Pepper a drachme; beat them into a groſſe powder, and ſtrew it into the heads of children, for it will ſoon deſtroy the lice. Or you may dip a comb in ſtrong Mercury water, or water made with Arſenick, and ſo comb the childs head therewith.</p>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="5" facs="tcp:118549:5"/>
+               <head>CHAP. 3. Of the Scab and Itch.</head>
+               <p>THe Scab and Itch is an infection of the skin, ſometimes with cruſts or ſcabs, ſometimes dry, ſometimes onely in the head, and ſometimes in the whole body, and doth much provoke to ſcratching.</p>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>Theſe come from the ſharpneſſe of the milk, or from ſome ſalt humour abounding in the body, and ſometimes they bring this in<g ref="char:EOLhyphen"/>fection into the world with them.</p>
+               </div>
+               <div type="signs">
+                  <head>The ſignes.</head>
+                  <p>The ſigns are manifeſt.</p>
+               </div>
+               <div type="prognosis">
+                  <head>Prognoſticks.</head>
+                  <p>If the Scab or Itch be ſmall and do not hinder ſleep, it is the eaſier cured, but if it do much moleſt and diſquiet the childe in the night, it is the more difficult to cure. If they be of long continu<g ref="char:EOLhyphen"/>ance and have got a habit in the body, they are not eaſily cured.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>For the cure of the Itch and Scab, many uſe to give common Treacle, which I do not approve of, but rather adviſe to uſe flower of Brimſtone morning and evening in milk or Poſſet drink. Alſo ſirup of Fumitory is good to give often half a ſpoonful thereof to children of growth.</p>
+                  <p>If the head be ſcabby, it is uſual to anoint with burnt butter, but this many times ſtrikes into the body and makes the child ſick. You may anoint with this oyntment following.</p>
+               </div>
+               <div type="prescription">
+                  <head>An Oyntment.</head>
+                  <p>Take oyl of Roſes four ounces, quick Brimſtone in powder one ounce, juice of Lemmons two ounces, Roſin three ounces, make all into an oyntment, and anoint the head, face, or body with it; but obſerve this, that you do not anoint all over where the itch or ſcab is, but anoint firſt at one place, and when that is killed, then uſe it to another place, and ſo the reſt one after another. You may alſo anoint with the white Camphire oyntment, or with Tarr and
+<pb n="6" facs="tcp:118549:6"/>
+Hogs greaſe boyled together; or you may uſe a decoction of To<g ref="char:EOLhyphen"/>bacco ſtalks boyled in water and vinegar.</p>
+                  <p>If the Itch or Scab be hot and burning, then uſe this oyntment following.</p>
+                  <p>Take white lead and Lytharge of gold in fine powder, of each five drachmes, lee made of the aſhes of a vine three drachmes, oyl of Roſes an ounce, wax as much; melt the wax and oyl firſt, then put in the reſt keeping it ſtirring, and laſt of all add two yolks of eggs, or rather the whites, make an oyntment, and uſe it.</p>
+                  <p>See more in my book called Help for the Poor, in Itch and Scab, pag. 21, 22. Cap. 23.</p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. 4. Of the Falling ſickneſſe and convulſion.</head>
+               <p>THheſe are diſeaſes very incident to children newly born; and becauſe they are ſo neer of affinity I ſhall joyn them to<g ref="char:EOLhyphen"/>gether.</p>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>The falling ſickneſſe cometh ſometimes by conſent of the inferior, or lower parts eſpecially of the ſtomach and bowels, when milk is corrupted in the ſtomach, or hath an ill quality, which doth often happen when the nurſe is of an ill complexion, or from the nurſes ill dyet, and to frequent drinking of wine, and ſo ill vapors ariſe from the ſtomach too the brain, and affect the membranes thereof, or worms, the Small Pox and Meaſels, or Fevers may cauſe theſe fits, or primarily it may come from the brain being ill affected<g ref="char:punc">▪</g> Sometimes it may be Hereditary and come from the Parents;<g ref="char:punc">▪</g> Alſo vehement pains of the teeth (whereby the brain is drawn in<g ref="char:EOLhyphen"/>to conſent) may cauſe convulſions in children. Moreover ſudden fears or beating the child may occaſion theſe fits. Some will have flegme to be the cauſe of the Falling ſickneſſe; but if it were ſo, then why might not old men (whoſe brains are flegmatick) have the Falling ſickneſſe, and Infants as well as old men, be taken with the Apoplexy, which notwithſtanding we ſee by experience doth
+<pb n="7" facs="tcp:118549:6"/>
+not happen: Therefore the falling ſickneſſe doth not proceed from flegme, but rather from an occult and ſharp quality, which doth oppreſſe the membranes of the brain. For although children do abound with flegme, (from whence ſuffocating rheumes and other diſeaſes be bred, yet doth not the Falling ſickneſſe follow except there be ſome venomous and corrupt vapour joyned therewith.</p>
+               </div>
+               <div type="signs">
+                  <head>The ſigns.</head>
+                  <p>The ſigns are manifeſt. But whether it proceed from vitious or corrupt milk, or from worms, the ſmall Pox, or Meaſels, breed<g ref="char:EOLhyphen"/>ing of teeth, or from fears, the ſigns of thoſe diſeaſes will mani<g ref="char:EOLhyphen"/>feſt. If fear be the cauſe, the ſtanders by or tenders can evidence the ſame: Now if none of theſe be the cauſe, then it is probable it may ariſe primarily from the brain.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognosticks.</head>
+                  <p>The Falling ſickneſſe and convulſion are diſeaſes very horrible to behold, and dangerous in all perſons and ages, and doth kill ma<g ref="char:EOLhyphen"/>ny children that are taken therewith ſo ſoon as they be born.</p>
+                  <p>Where theſe fits happen to young children, 'tis more dangerous then in grown perſons, becauſe they can bear and endure the fits better.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>For the cure of theſe diſeaſes, ſomthing muſt be done in the fit, and ſomething when the fit is over.</p>
+               </div>
+               <div type="cure">
+                  <head>What is to be done in the fit.</head>
+                  <p>Firſt, in the fit give three or four drops of ſpirit of Caſtor in beer or milk, alſo black Cherry water with a little ſirup of Pyony, or give a ſmall ſpoonful of this following Julep.</p>
+               </div>
+               <div type="prescription">
+                  <head>A Julep.</head>
+                  <p>Take of Piony water, and linden water, of each one ounce, ſi<g ref="char:EOLhyphen"/>rupe of Piony compound half an ounce, ſpirit of black Cherries two drachmes, magiſter of Coral a ſcruple, mix them together, and give it as before is ſhewed. Put to the noſtrils Rue bruiſed, or oyl of Amber, or Balſam of Amber. Apply to the Region of the heart, and to the Temples Mithridate, or London Treacle, with the juice of Rue and a little wine, or water Epileptick of Langius. Let the nape of the neck, and the ridge of the back be anoynted with this following.</p>
+                  <p>Take oyl of Caſtor, or oyl of Euphorbium half an ounce, the juice of Rue one ounce; boyl them together to the conſumption
+<pb n="8" facs="tcp:118549:7"/>
+of the juice, and uſe it. Hang about the neck of the childe a thin ſlice of Piony, or white Briony roots as green as you can.</p>
+               </div>
+               <div type="cure">
+                  <head>What muſt be done when the fit is over.</head>
+                  <p>Secondly, ſomething muſt be done out of the fit. If the child be five or ſix years old, you may give it this potion.</p>
+               </div>
+               <div type="prescription">
+                  <head>A purging potion.</head>
+                  <p>Take of Agarick trochiſcated four ſcruples, infuſe it five or ſix hours in Oxymel of Squils; ſtrain it hard, and add thereto of Ca<g ref="char:EOLhyphen"/>ſtor in powder three greins, ſirupe of Roſes ſolutive with Agarick one ounce, Balm water one ounce, make a potion, and give it in a morning faſting. Let the child conſtantly take of the Julep be<g ref="char:EOLhyphen"/>fore mentioned, and be kept anointed with the oyl of Caſtor and juice of Rue; alſo let it wear about it's neck conſtantly a root of male Peony, or white Briony.</p>
+                  <p>In <hi>Italy,</hi> and other places where this diſeaſe is very frequent, <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſoon as children be born, they cauterize or burn them in the neck with a hot iron, or elſe drop a burning wax candle upon the place, where they deſire to make an Iſſue, and that to prevent the falling ſickneſſe, for hereby they think the brain is dryed, and by pain the humour which doth flow, or may flow, is drawn and derived <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o the hinder part of the head, eſpecially if the Iſſue be made by burning, for thereby whatſoever is gathered together in the brain that is offenſive is evacuated. <hi>Cornelius Celſus</hi> was of the ſame minde, Lib. 3. Cap. 28. fol. 40. for he adviſeth to have an Iſſue made there in two places, and he ſaith, it is the laſt refuge or reme<g ref="char:EOLhyphen"/>dy for to cure the Falling ſickneſſe. But I conceive that it is not ſafe to uſe ſuch a remedy in young and tender bodies; for if the bodies of ſuch young and tender children will not ſuffer purging or bleeding, how ſhall they endure burning, when as this muſt needs bring continual pain and watchings, whereby the ſtrength muſt alſo decay.</p>
+                  <p>Again, although an Iſſue may be profitable where the falling ſickneſſe ariſeth primarily and chiefly from the brain, yet when the Falling ſickneſſe ariſeth from the lower parts, (which doth often happen to children) it doth not profit, when as the matter, or ill vapor that cometh from the lower parts cannot be turned from the brain.</p>
+                  <p>If the Falling ſickneſſe ariſe from worms, then uſe means againſt worms, as you may ſee in the Chapter of worms, to which means
+<pb n="9" facs="tcp:118549:7"/>
+may be added the root of Piony, red Coral, &amp;c.</p>
+                  <p>Let the Mother, or Nurſe keep a good dyet, and neither eat nor drink any thing that may offend the childe, or occaſion theſe fits.</p>
+                  <p>See more in my book of the chief diſeaſes of the head, in the 6. &amp; 7. Chapters.</p>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. 5. Of the pain in the ears, with inflammation, moi<g ref="char:EOLhyphen"/>ſtures, ulcers, and worms thereof.</head>
+               <p>AMong the diſeaſes of children <note n="a" place="bottom">
+                     <hi>Hippocrat. Appli. ſect.</hi> 3. 24.</note>
+                  <hi>Hippocrates</hi> in his Aphoriſmes doth nominate the moiſture or running of the ears; For when the brain of infants is very moiſt, great part of that ſuperfluous moiſture is evacuated, or purged by the ears, yet this doth not of<g ref="char:EOLhyphen"/>ten happen without inflammation. Therefore when abundance of moiſt humours do flow plentifully to the ears, they cauſe inflam<g ref="char:EOLhyphen"/>mation, alſo grievous pain is joyned therewith, which in moiſt bo<g ref="char:EOLhyphen"/>dies of children cannot be diſperſed or diſſolved, but is turned into matter, ſo that blood and matter doth flow out of the ears.</p>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>The cauſe is abundance of moiſt humours and excrements of the brain, which nature cannot expel by the noſe and Palat.</p>
+               </div>
+               <div type="signs">
+                  <head>The ſigns.</head>
+                  <p>The moiſture of the ears is eaſily known by it's running, but pain and inflammation thereof is not ſo eaſily diſcerned, becauſe infants cannot declare the ſame; but it may be known by their crying out and unquietneſſe, eſpecially being touched neer their ears, alſo redneſſe and heat is perceived about the ear or ears.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognoſticks.</head>
+                  <p>Theſe diſeaſes are not to be ſleighted for ſuch pains (in grown perſons) have proved dangerous, much more therefore in children if it continue long.</p>
+                  <p>Inflammation of the ears is many times dangerous, and brings a delirium or dotage and indangers life.</p>
+                  <p>
+                     <pb n="10" facs="tcp:118549:8"/>
+In ulcers of the ears if the matter be white, not too thick nor too thin, neither bloody nor much ſtinking, it is the better.</p>
+                  <p>Inveterate and long continued Ulcers of the ears are danger<g ref="char:EOLhyphen"/>ous, becauſe they ſoon turn to a Fiſtula.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>For pain of the ears, uſe oyl of Roſes, or oyl of Violets warm, or milk warm dropped into the ears, and afterwards ſtopped with wool<g ref="char:punc">▪</g> or drop therein the juice of Origanum and milk mixed to<g ref="char:EOLhyphen"/>gether: Or drop in a little Linſeed oyl warm, or uſe a decoction of the heads of white Poppy, or the white of an Egg beaten and mixed with a little milk: or put a little Saffron into the ears.</p>
+                  <p>Againſt moiſtneſſe of the ears and ulcers thereof, uſe hony of Roſes, and water of hony; dip a clout or tent therein and put it warm into the ears; or put in oyl of bitter Almonds warm.</p>
+                  <p>For worms in the ears, uſe oyl of bitter Almonds and Myrrhe in powder, as in two drachmes of oyl put of Myrrhe in powder a ſcruple or thirty grains: or put the juyce of Wormwood warm into the ears.</p>
+                  <p>Or take of Aloes, Myrrhe, and the ſeeds of Coloquintida, of each a drachme; boyl them in two ounces of oyl of Roſes, ſtrain <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t and drop of the ſtrained liquor into the ears.</p>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. 6. Of breeding and coming of teeth.</head>
+               <p>Among all diſeaſes that children are ſubject to, there is none more grievous or troubleſome to them then the pain in bree<g ref="char:EOLhyphen"/>ding of their teeth. For ſaith <note n="a" place="bottom">
+                     <hi>Hip. Aph. ſect.</hi> 3. 25.</note>
+                  <hi>Hippocrates,</hi> The time of teeth bree<g ref="char:EOLhyphen"/>ding coming there hapneth itching of the gums, feares, Convul<g ref="char:EOLhyphen"/>ſions, Fluxes of the belly, eſpecially when they bring forth their teeth, and moſt principally to thoſe children which are moſt fat and groſſe and have their belly hard and bound.</p>
+               <p>Sometimes children are born into the world with teeth, as ex<g ref="char:EOLhyphen"/>perience witneſſeth. <note n="a" place="bottom">
+                     <hi>Pliny</hi> Nat. Hiſt. the 7. Book and 16. Chaper.</note>Pliny ſaith <hi>M. Curjus</hi> was ſo born, who thereupon was ſurnamed <hi>Dentatus;</hi> and C<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Papyrius Carbo,</hi> both
+<pb n="11" facs="tcp:118549:8"/>
+of them very great men and right honourable Perſonages. And <hi>Bald-Rouſaeus de vitae hom. primord. cap de dent.</hi> In the year 1564. Saith he ſaw a girle born with two teeth in her lower gums cal<g ref="char:EOLhyphen"/>led cutters.</p>
+               <div type="time">
+                  <head>The time of breeding teeth.</head>
+                  <p>The time of breeding teeth is about the ſeventh month, and firſt thoſe teeth are bred that are called <hi>Inciſorii,</hi> cutters or ſhearers, in Greek <gap reason="foreign" resp="#OXF" extent="1 word">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, becauſe they ſhew themſelves when we laugh: then within a little ſpace of time come forth the Canini or Dog<g ref="char:EOLhyphen"/>teeth, from their length above the reſt: They are called <hi>Oculares</hi> or eye teeth, not that they reach to the orbit of the eye; for they mount not higher then the Noſtrils; but becauſe ſprigs of the ner<g ref="char:EOLhyphen"/>ves, which move the eyes are carried to them. Laſt of all are bred the Molares or Grinders, becauſe like Millers they grind the meat. Of theſe the hindermoſt are called <hi>Genuini &amp; dentes ſapientiae,</hi> the teeth of wiſdom, becauſe they ſhew not themſelves until men come to the years of diſcretion, to wit, the 28. 30. yea even to old age it ſelf. In ſome they never appear.</p>
+                  <p>And firſt of all at their comming forth Children have a great it<g ref="char:EOLhyphen"/>ching of their gums, afterwards there following a pricking of their gums at the roots as it were with needles, from whence follow<g ref="char:EOLhyphen"/>eth vehement pain, watchfulneſſe, inflammation of the gums, fears, fluxes of the belly, and convulſions; And this doth chiefly hap<g ref="char:EOLhyphen"/>pen when they breed their Dog teeth, or Eye teeth as the vulgar call them: from whence we have a Proverb, that Parents cannot rejoyce in their children till their eye teeth be come.</p>
+                  <p>Sometimes about the ſeventh year children ſheed their teeth, or their teeth fall out, and new come in their roome, but this is with<g ref="char:EOLhyphen"/>out any pain, although children cannot ſpeak of their pain in breed<g ref="char:EOLhyphen"/>ing their teeth, yet it may be known by theſe ſigns.</p>
+               </div>
+               <div type="signs">
+                  <head>Signs of teeth breeding.</head>
+                  <p>Firſt from the time of breeding, viz. about the ſeventh month. Secondly, becauſe they often put their fingers in their mouth, there<g ref="char:EOLhyphen"/>by to eaſe the pain. Thirdly, becauſe the Nipples of the mother or nurſe are more wrinkled then before. Fourthly, in thoſe pla<g ref="char:EOLhyphen"/>ces
+<pb n="12" facs="tcp:118549:9"/>
+where the teeth are breeding the gums are white and ſwollen. Laſtly, divers accidents happen, as pain, watchfulneſſe, fluxes of the belly, fevers, convulſions: Now theſe fears which follow upon the teeth breeding, the inflammations of the gums, and watchful<g ref="char:EOLhyphen"/>neſſe, they all come from pain, and then humours are ſtirred up and choller abounding which brings fluxes of the belly.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognoſticks.</head>
+                  <p>The breeding of teeth in Children is very grievous and trouble<g ref="char:EOLhyphen"/>ſome, by reaſon thoſe diſeaſes and ſymptomes that accompany the ſame, in ſo much that many die thereof: when convulſions and fevers are joyned therewith. <hi>Hip. de dentione fol.</hi> 59.</p>
+                  <p>The longer the teeth are a comming forth, the greater is the danger. Such children as have a looſneſſe when they breed teeth, are leſſe ſubject to Convulſions then thoſe that are bound. If an acute or ſharp Fever happen to children breeding their teeth, they are ſeldom taken with the Convulſion; becauſe by the Fever the matter that might bring a convulſion is taken away.</p>
+                  <p>Such as are in good health when they breed their teeth, if they be very drowſie and ſleepy, there is danger leaſt they fall into convulſions.</p>
+                  <p>Such as breed teeth in winter are leſſe troubled then thoſe in ſommer: and if they be a little helped they will endure it the ea<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>er.</p>
+                  <p>Not all that breed teeth (being taken with convulſions) do die, but many eſcape.</p>
+                  <p>Their teeth come forth hardeſt, or with moſt pain, that have a little Cough withall; and if they be troubled with pricking and ſhooting of the gums, they become very lean. While children breed their Dog teeth, or Eye teeth, they are worſt, and more trouble<g ref="char:EOLhyphen"/>ſome, becauſe they bring more ſharp and grievous pain to them.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>Let the gums be often rubbed with the finger wet with Hony, or with Hony and Butter mixed together, or with the brains of a Hare; or the brains of a Hare mixed with Capons greaſe and Hony. If you cannot get a Hares brains, take Conies brains.</p>
+                  <p>
+                     <pb n="13" facs="tcp:118549:9"/>
+Rub the gums often with red Coral. It is good alſo to waſh the outſide of the cheek with a decoction of Mallows and Camo<g ref="char:EOLhyphen"/>mil flowers; or to anoint the ſame with the juyce of Mallows and Butter mixed together.</p>
+                  <p>If there be an inflammation of the gum<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and the pain be very extream, uſe oyl of Roſes with the juyce of Nightſhade.</p>
+                  <p>If theſe medicines prevail not, as many times comes to paſſe, then the beſt way is to cut the gums; for this is very ſafe, and were it more uſed, fewer Children would die: for I am confident the want hereof doth occaſion the death of many a child.</p>
+               </div>
+               <div type="prescription">
+                  <head>Dyet.</head>
+                  <p>The Nurſe muſt obſerve a good Dyet, and be very temperat therein, and rather incline to cooling then heating. She may uſe Barly water made with Avens, Lettice and Endive, abſtaining from all ſalt and ſharp meats, eſpecially about the time of breeding their teeth.</p>
+               </div>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. 7. Of the inflammation of the mouth and throat, with ulcers and ſores thereof.</head>
+               <p>OFtentimes there ariſe certain ulcers and ſores in the mouthes of children called <hi>Aphthae,</hi> which do not onely poſſeſſe the ſides of the mouth, the tongue and gums, but ſometimes the very Al<g ref="char:EOLhyphen"/>monds and Pallat of the mouth.</p>
+               <p>Among the diſeaſes of children, <hi>Hippocrates</hi>
+                  <note n="*" place="bottom">
+                     <hi>Hip. Aph.</hi> 3. 26.</note> maketh mention of the inflammations of the Almonds of the mouth.</p>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>They proceed from vitious and corrupt milk, for ſeeing the in<g ref="char:EOLhyphen"/>ward parts of the mouthes in children are ſoft and tender, and have not been uſed to any meat in the mothers womb, if the milk be not very ſweet and pleaſant, but ſharp and corrupt, theſe ulcers, ſores, and inflammations are ſoon bred. The ſame doth happen if the milk be corrupt in the ſtomach, for from thence ariſe hot and
+<pb n="14" facs="tcp:118549:10"/>
+ſharp vapours, eſpecially conſidering the tenderneſſe of thoſe parts about the mouth and throat.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognosticks.</head>
+                  <p>Theſe inflammations and ſores being not of any long continu<g ref="char:EOLhyphen"/>ance, (eſpecially in tender and young infants) are eaſily cured, be<g ref="char:EOLhyphen"/>cauſe they ariſe from a light cauſe and matter: But ſuch as are of long continuance are more hardly cured, and have putrifaction joyned therewith.</p>
+                  <p>Thoſe ſores and ulcers of the mouth in children that are black and with cruſts or ſcales, are worſt of all, and many times prove mortal.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>In the beginning we muſt uſe aſtringent, or binding and repel<g ref="char:EOLhyphen"/>ling, or medicines to drive back; afterwards medicines binding but withall diſcuſſing.</p>
+                  <p>If there be onely heat and inflammation, then we muſt uſe cool<g ref="char:EOLhyphen"/>ing means and a little binding. If theſe ſores come from the fault of the milk, then the Nurſe muſt keep a good Dyet, and avoid all hot, ſharp and ſalt meats.</p>
+                  <p>Give the child often ſirup of Mulberries with hony of Roſes, and if need be with Oxymel. If they be red, then uſe medicines moderatly binding, as ſirup of dry Roſes, ſirup of Purſlain, ſirup of Grapes, Sorrel, Citrons, and Mulberries with the powder of Len<g ref="char:EOLhyphen"/>tils, Sumach and red Roſes.</p>
+                  <p>If they be yellow uſe cooling meanes, as ſirup of Violets, ſirup <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f Purſlain, &amp;c.</p>
+                  <p>Or take the juyce of Lettice, Purſlain, Nightſhade, of each half an ounce; mix them together and uſe it with a feather.</p>
+                  <p>Or take of red Roſes and Violets in powder of each a drachme, Hony one ounce and a half, or as much ſirup of Mulberries, mix them together and uſe it.</p>
+                  <p>Or take of Plantain water half an ounce, hony of Roſes, and ſirup of Mulberries, of each half an ounce, mix them together, and waſh the childs mouth often with it.</p>
+                  <p>Or take of French Barly half an ounce, Agrimony, Plaintain, red Roſes, of each a handful: boyl theſe in water, ſtrain it, and in
+<pb n="15" facs="tcp:118549:10"/>
+ſix ounces thereof mix of ſirup of Mulberries half an ounce, hony of Roſes one ounce, and a half, and if there be need, you may add half a drachme of Allom, which will make it more cleanſing.</p>
+                  <p>Or take of Roſewater, or Plantain water one ounce, hony of Roſes, half an ounce, oyl of Vitriol ſo many drops as may make it ſharp; mix them together, and waſh the mouth therewith.</p>
+               </div>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. 8. Of fevers in Children.</head>
+               <p>CHildren are many times taken with burning fevers, as well as with Quotidian, Tertian, and quartain Agues.</p>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>The cauſe of fevers in children may ariſe from corrupt milk, for when the milk doth putrifie choller is ſtirred up, and alſo the reſt of the humours are inflamed, from whence cometh fevers. Some<g ref="char:EOLhyphen"/>times fevers may proceed from the breeding of teeth, ſometimes from pains, inflammation and overmuch watching, as <hi>Hippocrates</hi> witneſſeth.<note place="bottom">
+                        <hi>Hip. Aph.</hi> 3. 25.</note>
+                  </p>
+               </div>
+               <div type="signs">
+                  <head>The Signs.</head>
+                  <p>The ſigns of a Fever in children are theſe; Great heat and dry<g ref="char:EOLhyphen"/>nes, rednes of the tongue and throat, want of reſt, urine red, ſome<g ref="char:EOLhyphen"/>times thick and ſometimes thin, quickneſſe of the pulſe, much inqui<g ref="char:EOLhyphen"/>etneſſe, and many times raving and idle talke if they be of any big<g ref="char:EOLhyphen"/>nes. If fevers come from the breeding of teeth, then you have the ſigns in the Chapter of breeding of teeth.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognoſticks:</head>
+                  <p>Theſe fears being but gentle, are not dangerous, for the cauſe be<g ref="char:EOLhyphen"/>ing taken away, they ſoon ceaſe; but if the milk continue long corrupt and vitious, then children are much indangered by theſe fevers. If ſharp fevers come upon children while they breed their teeth, they are ſeldom taken with convulſions; ſometimes fluxes,
+<pb n="16" facs="tcp:118549:11"/>
+of the belly and great watchings accompany theſe fevers, whereby children are ſoon ſuffocated.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>If the fever proceed from corrupt milk, then choller doth abound; the mother or nurſe therefore muſt uſe cooling and moiſtening means, as broth or poſſet-drink made with Lettice, Endive, Sorrel, Violet leaves, ſtraberry leaves, &amp;c.</p>
+                  <p>Alſo Almond milk made with the four cooling ſeeds, and Bar<g ref="char:EOLhyphen"/>ly water are very uſeful. The mother or nurſe muſt abſtain from Wine, hot water and all hot ſpices; and may uſe ſome purging means, as Manna, two ounces thereof may be taken in broth or clear poſſet drink, or three ounces of ſirup of Roſes ſolutive, or one ounce, or one ounce and a half of Caſſia, in the ſame you may give the child often ſirup of Violets, ſirup of the juyce of Citrons, half a ſpoonful at a time; or Take one ounce of ſirup of Violets, and add to it as much Endive water, and give the child a ſpoonful at any time.</p>
+               </div>
+               <div type="prescription">
+                  <head>A Julep.</head>
+                  <p>Or take of Borrage water four ounces, ſirup of Violets, or ſirup of Citrons one ounce and a half, ſpirit of Vitriol five or ſix drops, mix them together, and let the child take often two or three ſpoon<g ref="char:EOLhyphen"/>fuls at a time.</p>
+                  <p>If the body of the child be bound, you may put up a Violet com<g ref="char:EOLhyphen"/>fit or two, firſt anointed with a little oyl; or give one ounce of ſirup of Roſes ſolutive (more or leſſe according to the age of the child) in poſſet drink in a morning. Or give half an ounce of Manna diſſolved in poſſet drink. Anoint the back and ridge of the child with oyl of Violets mixed with a little wax. And anoint the ſtomach with ſome of this oyntment following.</p>
+               </div>
+               <div type="prescription">
+                  <head>An oyntment.</head>
+                  <p>Take oyl of Roſes, and Maſtick in powde of each half an ounce. red and white Saunders in powder, red Coral in powder of each x ſcruple, wax two drachmes; make an ointmen, and uſe it as before mentioned.</p>
+               </div>
+               <div type="prescription">
+                  <head>A Pultis.</head>
+                  <p>Or take of red Roſes in powder two drachmes, the juyce of plantain, Houſleek, and Endive of each half an ounce; with the
+<pb n="17" facs="tcp:118549:11"/>
+white of an egg and ſome Barly flower make a pultis, and apply it to the ſtomach. Anoint the temples and wreſts with oyl of Roſes and oyl of Populcon of each a little quantity mixed together.</p>
+                  <p>If the fever proceed from breeding of teeth, uſe means to help na<g ref="char:EOLhyphen"/>ture herein, as in the firſt Chapter.</p>
+               </div>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. 9. Of the ſmall Pox and meaſels.</head>
+               <p>Of ſmal Pox and Meaſels are diſeaſes that moſt children are troubled with firſt or laſt.</p>
+               <p>They are both of one nature and proceed from one cauſe, ſaving that the meaſels are ingendred of the inflammation of blood, and the ſmall Pox of the inflammation of blood mingled with Cho<g ref="char:EOLhyphen"/>ler.</p>
+               <div type="description">
+                  <head>What the ſmall Pox are.</head>
+                  <p>The ſmall Pox are ſpots, red puſtules appearing in the skin, with a continual fever ſtirred up or excited from the ſtrength of the expulſive faculty and ebullition or boyling of the blood.</p>
+               </div>
+               <div type="description">
+                  <head>What the Meaſels are.</head>
+                  <p>The Meaſels are ſpots or riſings upon the outſide of the skin, in ſome parts, more or leſſe with a Fever, by reaſon of the ſtrength of of the expulſive faculty, and heat or boyling of the blood.</p>
+               </div>
+               <div type="differences">
+                  <head>The difference between the ſmall Pox and the Meaſels.</head>
+                  <p>At the firſt appearing they are ſo like one another, that you can hardly diſcern the difference; The Meaſels (moſt times) come more ſuddenly, &amp; the face &amp; the skin of the whole body looks red<g ref="char:EOLhyphen"/>der, and the rednes continues longer without riſing, there being joy<g ref="char:EOLhyphen"/>ned therewith moſt commonly a greater itching and pricking. But the ſmall Pox come not forth ſo ſuddenly, neither is the skin ſo red, nor doth the colour ſtay ſo long, and the pimples riſe higher, neither is the itching and pricking ſo much, and at length grow white.</p>
+               </div>
+               <div type="cause">
+                  <pb n="18" facs="tcp:118549:12"/>
+                  <head>The cauſe.</head>
+                  <p>There are two chief cauſes thereof. Firſt, the reliques and im<g ref="char:EOLhyphen"/>purity of the mothers blood, with which the child was nouriſhed in the womb, and receiving the ſame into the pores of the body, the which at that time for debility of nature could not be expelled, but the child increaſing afterward in ſtrength is driven out of the veins into the upper skin.</p>
+                  <p>Secondly, it may come by way of contagion, from a peculiar malignity of the air when any place is infected, ſo that one perſon infecteth another.</p>
+                  <p>Now the fuller the body is of this menſtrual blood, the deeper impreſſion doth the outward air make in it; which is the reaſon that ſome have them in greater quantity, and are fuller of them then others: And ſo according to the malignity of the humor, it is more or leſſe dangerous to ſome then to others. Sometimes the ill dyet of the nurſe, or feeding upon meats that increaſe rotten hu<g ref="char:EOLhyphen"/>mours, may cauſe this diſeaſe.</p>
+               </div>
+               <div type="signs">
+                  <head>The ſigns.</head>
+                  <p>The ſignes of them are theſe. Pain of the head, eyes and throat, with a beating of the head and temples, itching of the noſe, neeſing, fear, and ſtarting in ſleep, like fits of the convulſion, or Falling ſickneſſe, and ſometimes Convulſions with ravings; all which happen from hot vapours, and that from the boyling of the blood, and ſo aſcend up to the head. Alſo there is a pain and beating of the back, heavineſſe of the whole body, a pricking pain in all parts, as if ſtung with nettles, difficulty of breath, a trembling of the feet, yawning or gaping, and a ſtretching of the body, trembling of the heart, and ſometimes ſwoning, redneſſe of the eyes, great drought, hoarſneſs, and a dry cough. The urine is ſometimes red and thick, which ſhewes great heat and boyling of humours, and ſome<g ref="char:EOLhyphen"/>times not much differing from the water of one in health. The noſe doth many times bleed, and that from the heat of the blood, and by it's ſharpneſſe doth open the orifices, or mouthes of the veins; which if it happen to be much in the beginning, then the diſeaſe is not ſo violent. Sometimes the eyes water and are moiſt: And laſt of all the ſpots appear, and that moſt times within three or four daies.</p>
+                  <p>The ſmall Pox or Meaſels happen chiefly in the Spring and Au<g ref="char:EOLhyphen"/>tumne, eſpecially if the Summer before were wet, and the winde
+<pb n="19" facs="tcp:118549:12"/>
+in the South; or if the winter foregoing be warm, and the wind Southern.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognosticks.</head>
+                  <p>It is better to have the ſmall Pox or Meaſels come forth ſpeedily then to be long in coming forth; for this ſheweth ſtrength of nature.</p>
+                  <p>If after they be come forth, the feaver and other ſymptomes do decreaſe, tis a good ſign.</p>
+                  <p>If the ſpots be white, or red, and full, coming to maturity or ripeneſſe, 'tis good; but if they be blew or black, livid and fall flat, whether few or many, 'tis a bad ſign.</p>
+                  <p>If fainting of the ſpirits, or ſwoonings, fluxes of the belly, ſhortneſſe of breath, black urine, or Convulſions happen, 'tis worſt of all.</p>
+                  <p>If the feaver increaſe after they be come forth, and they flaſh abroad not ripening ſpeedily, and if hoarſeneſſe follow, theſe are very bad ſigns.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>The ſafeſt way is not to meddle much with children that have theſe diſeaſes, but to let nature alone herein; yet where nature is weak it will be very neceſſary to uſe means to expel out the diſeaſe: As Saffron in milk, London Treacle, and Diaſcordium, if there be a looſeneſſe is very good, given in Carduus or Angelica water. Barly water made with Figs, Dates, Licorice and Annis ſeed is very good; or</p>
+                  <p>Take of French Barly a handful, ſhavings of Ivory and Harts horn, of each two drachmes, Licorice bruiſed one ounce, Citron pils dry and cut in thin ſlices three drachmes; boyl them in a pint and a half of Poſſet drink to a pint, ſtrain it, and let the child drink often of it, eſpecially morning and evening.</p>
+                  <p>Or,</p>
+                  <p>Take three or four Figs cut, Harts horn two drachmes, Mari<g ref="char:EOLhyphen"/>gold-flowers a drachme, Carduus half a drachme; Boyl them in a pint of Poſſet-ale, ſtrain it and add thereto of Saffron in powder two ſcruples. Give three or four ſpoonfuls of it morning and evening warm.</p>
+               </div>
+               <div type="prescription">
+                  <pb n="20" facs="tcp:118549:13"/>
+                  <head>A Cordial Julep.</head>
+                  <p>Take of Carduus, or Angelica water three ounces, ſyrup of Baume one ounce two drachmes, Treacle water a ſpoonful or two, mix them together, and give often of it a ſpoonful at a time.</p>
+                  <p>If the child be bound, you may put up a violent comfit anointed with oyl, or if the Pox be well come forth, and the child be bound, you may adminiſter a Cliſter made with milk and brown Sugar; or, take of milk a quarter of a pint, and two ounces of Sugar, mix them together, and adminiſter it warm.</p>
+                  <p>After the Pox are come forth, and do begin to dye, you may anoint with this following.</p>
+               </div>
+               <div type="prescription">
+                  <head>An Oyntment.</head>
+                  <p>Take of chalk in fine powder, and often waſhed in Plantane water two drachmes, of Cream two ounces; mix them well to<g ref="char:EOLhyphen"/>gether, and anoint the face with a feather. Or, uſe the oyl of ſweet Almonds mixed with Parmacitty.</p>
+                  <p>You muſt not keep the childe too hot nor too cold, for being kept too hot it may cauſe faintings and ſwoonings, and being kept too cold, it may drive them in again, and ſo check and hinder nature from expelling them out to the skin.</p>
+                  <p>See more in my book called Help for the Poor, Pag. 56, 57, 58, &amp; 59.</p>
+               </div>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. 10. Of watchings out of meaſure, and want of reſt.</head>
+               <p>THe childe while it is in the mothers womb is detained or kept in a perpetual ſleep, and after it is born, if it be well, it doth ſleep much at the firſt, becauſe it hath a very moiſt brain, and doth abound with humidity or moiſture,</p>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>The cauſe of watchings, is the corruption of the milk, or too much milk, which putrifieth in the ſtomach, from whence ſharp vapors ariſe continually to the brain, and ſtir up the animal ſpirits not letting them be at quiet. Sometimes breeding of teeth may be the cauſe thereof.</p>
+               </div>
+               <div type="signs">
+                  <pb n="21" facs="tcp:118549:13"/>
+                  <head>The ſignes.</head>
+                  <p>The ſigns are manifeſt, for the child cannot ſleep, but is conſtant<g ref="char:EOLhyphen"/>ly out of quiet.</p>
+               </div>
+               <div type="prognosis">
+                  <head>Prognoſticks.</head>
+                  <p>This is dangerous in children, not onely becauſe in general ſleep and watchfulneſſe if they exceed meaſure, are ill; but chiefly be<g ref="char:EOLhyphen"/>cauſe this is contrary to the nature of children, which are wont to ſleep much.</p>
+                  <p>By too much watching humours are ſtirred up, and become dry, from whence Convulſions, fears, Catarrhes or Rheums, and other diſeaſes are bred in children.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>The means to bring reſt are inward or outward. Inward means are theſe following.</p>
+               </div>
+               <div type="cure">
+                  <head>Inward means.</head>
+                  <p>If the child be bound give it ſyrupe of Roſes, or put up a violet comfit into the body of it, and give every night the bigneſſe of a Peaſe of Diaſcordium, in a little Poſſet drink, more or leſſe, as the childe is in bigneſſe. This you may uſe four or five nights together if need be, but where the body is bound be ſparing in the uſe of it. Barly water (made with white Poppy ſeeds) may be given to the child at night, or half a ſpoonful of ſyrupe of violets, or ſyrupe of white Poppy heads, half ſo much, where the childe is ſubject to watchings, elſe uſe not the laſt.</p>
+               </div>
+               <div type="cure">
+                  <head>Outward means.</head>
+                  <p>Outward means, are theſe following, make a Bath (if it be Summer) of the tops of Dill, Cammomil flowers, Mallowes Willow leaves, Vine leaves, and the heads of Poppy, white or red; and waſh the feet therewith. You may anoint the temples with oyl of Roſes, or oyl of Violets, or water Lillies, or with Populeon oyntment; or you may uſe oyl of Nutmegs (made by expreſſion) to the temples warm, or you may make a Pulcis of white Poppy ſeed, womans milk, or Roſe water, or Nightſhade water, and the white of an egg with a little Saffron. Anoint the noſtrils with oyl of Violets mixed with the juice of Night<g ref="char:EOLhyphen"/>ſhade. If it proceed from breeding of teeth, then uſe thoſe means ſet down in the Chapter of breeding teeth. Let the Nurſe uſe a good dyet, and means that may cauſe ſleep, as Almond
+<pb n="22" facs="tcp:118549:14"/>
+milk, made with a decoction of Lettice and white Poppy ſeeds: Or, ſhe may take a ſpoonful of ſirup of white Poppy for three or four nights together in Poſſet drink.</p>
+               </div>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. 11. Of Fear, Starting, and terrible dreams.</head>
+               <p>AMong the diſeaſes that are incident to children, <hi>Hippocrates</hi> mentions great fears, and ſtartings which is nothing elſe but troubleſome ſleep, accompanied with terrible dreams.</p>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>The cauſes hereof are impure and filthy vapors which mingle themſelves with the animal ſpirits, and trouble the ſame, repreſen<g ref="char:EOLhyphen"/>ting terrible fancies to the imagination; now theſe vapors ariſe from the bad concoction of the ſtomach. Therefore this diſeaſe is very ſubject to children, who ſuck the milk very greedily, or eat abundantly, and ſo receiving more nouriſhment then the ſtomach can digeſt, it is corrupt, and ſo theſe vapors ariſe to the brain, and trouble he animal ſpirits. Neither is it abſurd to ſay that theſe vapours do not onely aſcend by the <note n="*" place="bottom">
+                        <hi>Oeſophagus is that part, by which meat and drink are turned down into the ſtomach.</hi>
+                     </note>
+                     <hi>Oeſophagus</hi> or <hi>gullet,</hi> but that by the veins they aſcend up to the head. Elder children are ſubject to this diſeaſe as well as younger.</p>
+                  <p>
+                     <hi>Galen</hi> ſaith, theſe fears, are cauſed when there is a natural imbe<g ref="char:EOLhyphen"/>cibillity or weakneſſe of the childs ſtomach, and the meat received is corrupted in it, which cauſe vapours to ariſe up to the head, and bring theſe ſtartings. Sometimes they come from worms, and when they breed their teeth.</p>
+               </div>
+               <div type="signs">
+                  <head>The ſigns.</head>
+                  <p>The ſigns are manifeſt, for they often ſtart in their ſleep, ſcreech and cry out ſuddenly, and many times they ſhake and are all in a water, and moſt times a hot and ſtinking vapour proceedeth out of the childs mouth.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognoſticks.</head>
+                  <p>This diſeaſe muſt not be ſleighted, becauſe many times it is the forerunner of the Falling ſickneſſe.</p>
+               </div>
+               <div type="cure">
+                  <pb n="23" facs="tcp:118549:14"/>
+                  <head>The cure.</head>
+                  <p>For the cure hereof, means muſt be uſed to take away the cor<g ref="char:EOLhyphen"/>rupt humours in the ſtomach.</p>
+                  <p>Let the Nurſe keep to a moderate dyet, and uſe meats that hin<g ref="char:EOLhyphen"/>der corruption, and abſtain from all vitious and corrupt food; as Peaſe, Beans, Leeks, Onions, Colewort, &amp;c. that ſo the milk may be good which the childe ſucketh.</p>
+                  <p>Let the childe ſuck but ſparingly and moderately leaſt by too often ſucking the ſtomach be oppreſſed; neither let the childe after ſucking or feeding be laid to ſleep, but kept watching a while, that ſo the nouriſhment may deſcend to the bottome of the ſtomach, and the concoction be the better. When it is laid to ſleep, let it not be much rocked, for overmuch ſhaking of the child hindreth digeſtion, and cauſeth the childe many times to vomit.</p>
+                  <p>To remove the corrupt food in the ſtomach, let the childe take oyl of ſweet Almonds, or ſirup of Succory, or Manna, or a little hony of Roſes ſolutive; you may give a ſpoonful or two of either, for theſe will cleanſe the corrupt humours and provoke to ſtool. Give the child half a ſcruple or more of Pyony ſeeds in a little milk morning and evening; or give it a little Magiſter of Coral.</p>
+                  <p>Or,</p>
+                  <p>Take Magiſter of Coral a drachme, ſpecies <hi>Pleres Archonticon</hi> a ſcruple, Sugar diſſolved in Roſewater one ounce; make rouls or cakes, and give of them to the childe, or diſſolve them in beer and ſo give them.</p>
+                  <p>Let the ſtomach be anointed morning and evening with oyl of wormwood, Mints, Nardus, Maſtick, or oyl of Nutmegs.</p>
+                  <p>Or,</p>
+                  <p>Take oyl of Wormwood and Maſtick of each a drachme, Cloves in powder ten grains, wax half a drachme, make a Liniment, and anoint the ſtomach therewith.</p>
+                  <p>If ſtarting come of worms, or from a feaver, then uſe thoſe means ſet down in the ſeveral Chapters. Great care muſt be ta<g ref="char:EOLhyphen"/>ken againſt all occaſions of fear and frighting be taken away.</p>
+               </div>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="24" facs="tcp:118549:15"/>
+               <head>CHAP. 12. Of Rheume, the Cough, and ſhortneſſe of breath.</head>
+               <p>THe Cough, Rheume, and ſhortneſſe of breath doth often<g ref="char:EOLhyphen"/>times much moleſt and diſquiet children.</p>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>The cauſe of rheume in children is from their natural conſtitu<g ref="char:EOLhyphen"/>tion, or moiſt temper of brain, from which many excrements are ea<g ref="char:EOLhyphen"/>ſily heaped together. And this happens from abundance of milk oppreſſing the ſtomach, from whence many vapours ariſe up to the brain and fill the ſame. For if the brain be filled with excrementi<g ref="char:EOLhyphen"/>tious humours, or moleſted with the cold air, (which the child was not uſed to in the mothers womb, or with too much heat, or being kept too hot (either the head or body<g ref="char:punc">▪</g>) the matter gathered toge<g ref="char:EOLhyphen"/>ther in the brain doth plentifully fal down to the noſtrils, mouth, or lungs. Now if theſe excrementitious humours cannot be purged by the noſtrils, they ſlide down into the rough artery &amp; cauſe a cough. If they fall down to the lungs they cauſe ſhortneſſe of breath.</p>
+               </div>
+               <div type="signs">
+                  <head>The Signs.</head>
+                  <p>Whether the humor be hot or cold is eaſily known, for if it be hot the humour is more thin, and the child doth often ſneeſe, the face and cheeks are hot, and the mouth of the child is hot, which may be perceived by the nipples of the nurſe, as alſo in ſucking. If the humour be cold, then the contrary is found. Now whether the ſhortneſſe of breath proceed of matter deſcending from the head, or from a phlegmatick blood, aſcending from the veins to the lungs, may be thus known; if it come from the head there is a cough, and rheume doth follow, and ſometimes as they breath they ſnort, and make a noiſe, becauſe the air is ſtopped coming from the lungs. But if it come from a flegmatick humour ariſing from the hypochonders, then there is neither cough nor rheume, and the hypochonders are puffed up and ſwollen.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognoſticks.</head>
+                  <p>Rheumes, and alſo the cough following, and ſhortneſſe of breath
+<pb n="25" facs="tcp:118549:15"/>
+in infants and children are not to be neglected, becauſe ſtrong Coughing doth not onely cauſe watchings and vomiting but Rup<g ref="char:EOLhyphen"/>tures, and Rheumes alſo bring ſuffocations and death many times. Theſe Rheumes and Coughs in children are not ſo eaſily cured, be<g ref="char:EOLhyphen"/>cauſe thoſe medicines cannot be uſed which bring expectoration or ſpitting, and to cauſe the matter to be eaſily ſpit out.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>Let the nurſe keep a temperate dyet, avoiding all ſharp and ſalt meats, as alſo all things that cauſe vapours to aſcend up to the brain.</p>
+                  <p>Let the nurſe take often of this pectoral decoction.</p>
+                  <p>Take of Figs and Jujubes of each twenty in number, Sebeſtens thirty in number, Raiſons of the ſun ſtoned ten drach. Licorice 2. drachmes, Maidenhair, Hyſſop, and Violets of each an ounce; boyl them in three pints of water to the conſumption of the third part, then being ſtrained give it as before.</p>
+                  <p>If the child be bound you may give it ſirup of Roſes, Manna or Caſſia. And give the child oyl of ſweet Almonds with white Sugar candy, which will not onely looſe the belly but eaſe the Cough. If ſhortneſſe of breath proceed from fulneſſe of the ſtomach and hy<g ref="char:EOLhyphen"/>pochonders, then give the child ſome Hony mixed with a little Fe<g ref="char:EOLhyphen"/>negreek ſeed and Comin ſeed in powder. Afterwards give the juyce of Fennel in milk, or ſirup of Jujubes, or ſirup of Maidenhair: or make Almond milk with ſome Pine kernels in Colts foot water, or Scabious water, and ſweeten it with ſugar Candy.</p>
+                  <p>Or,</p>
+                  <p>Take one ounce of ſugar Pellets, and being diſſolved in two oun<g ref="char:EOLhyphen"/>ces of Hyſſop water, warm them on the fire, and give a ſpoonful of<g ref="char:EOLhyphen"/>ten of it. Or you may give ſugar Candy and Hyſſop water in the ſame manner. If the child be of any bignes, you may give it often pectoral Roules, or Troſſes to eat, or ſugar Pellets.</p>
+                  <p>Let the breaſt be anointed morning and evening warm with oyl of ſweet Almonds mixed with Capons greaſe or ſweet Butter; or with the oyntment called <hi>Pectorale.</hi>
+                  </p>
+                  <p>Or,</p>
+                  <p>Take of the oyntment called <hi>Reſumptivum,</hi> oyl of ſweet Al<g ref="char:EOLhyphen"/>monds
+<pb n="26" facs="tcp:118549:16"/>
+of each one ounce, Capons greaſe and Gooſe greaſe, of each two drachmes, mix them together and uſe it,</p>
+                  <p>To dry up the Rheume leſt the childs headclothes be perfumed with the powder of red Roſes and Frankincenſe at night. And you may bath the childs feet with a decoction made with Roſe<g ref="char:EOLhyphen"/>mary, Sage, Marjoram, &amp;c. And afterwards anoint the feet with oyl of Bayes, or oyl of Coſtus warm.</p>
+                  <p>And becauſe the Rheume ſometimes falls down by the rough ar<g ref="char:EOLhyphen"/>tery, ſo that the noſtrils of the child are dry, and much ſtopped, therefore you muſt anoint the ſame with freſh Butter, or put up ſome therein, or with oyl of ſweet Almonds, or with this follow<g ref="char:EOLhyphen"/>ing.</p>
+                  <p>Take of the juyce Beets of and Marjoram, of each two drachmes, of the juyce of Chickweed half an ounce, oyl of ſweet Almonds one ounce mix them together, and anoint the noſtrils therewith; or put up Baſil, Cloves, or Marjoram in powder into the noſtrils to provoke ſneeſing, that thereby the matter which flowes down by the rough Artery may flow out of the noſe.</p>
+                  <p>If the Cough hinder the child from ſleeping, give it at night of ſirup of Jujubes, ſirup of Violets, and ſirup of white Poppy, of each a like quantity mixed together, or give Conſerve of red Roſes if the child be of any bigneſſe.</p>
+               </div>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. 13. Of vomiting and weakneſſe of the ſtomach.</head>
+               <p>MAny times the childs ſtomach is ſo weak that it cannot re<g ref="char:EOLhyphen"/>tain any ſuſtenance taken.</p>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>The cauſe hereof is either abundance of milk which the child greedily ſucketh; or the ill quality of the milk, or worms; from whence ill humours are ſtirred up and ſo cauſe vomiting. It may alſo proceed from flegme falling down upon the ſtomach, but this is more rare in children and doth not often happen.</p>
+               </div>
+               <div type="signs">
+                  <head>The ſigns.</head>
+                  <p>If it come from abundance of milk ſucked the Nurſe may ſoon
+<pb n="27" facs="tcp:118549:16"/>
+know it; beſides the childe after vomitting is better.</p>
+                  <p>If it proceed from the corruption of the milk, 'tis known by the quality thereof, for the milk is yellow, green, or of ſome other bad colour which is vomited up, and hath an ill ſavour or ſmell; alſo the milk of the Nurſe is not good.</p>
+                  <p>If worms be the cauſe, then you have the ſigns in the Chapter of worms.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognoſticks.</head>
+                  <p>Vomiting in children is moſt times little dangerous, for it is a common ſaying among women, that thoſe children are moſt lively and vivacious that being young do vomit; and there wants not reaſon to ſecond this opinion; for the child being newly born hath ſome vitious humours in the ſtomach, which was collected in it's mothers womb, and then receiving freſh nouriſhment from the Nurſe which it was not accuſtomed to; moreover the ſto<g ref="char:EOLhyphen"/>mach being lax or looſe, moiſt and weak, it ſoon happeneth that the milk is corrupted: Therefore if theſe vitious humours be caſt out by vomit, it is far better then if they were retained in the ſtomach.</p>
+                  <p>If vomiting proceed from abundance of milk, there is leſſe danger, and moſt times after vomiting the childe is better. If from the corruption of the milk it is worſe, becauſe thereby may follow other dangerous ſymptomes.</p>
+                  <p>If vomiting continue long, it is dangerous, becauſe it may bring an Atrophy, or leanneſſe of the whole body, and ſo death at length.</p>
+                  <p>If that which is vomited be white and flegmatick, 'tis better then if it be yellow, green, or blackiſh.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>If vomiting proceed from too great plenty of milk ſucked, then let not the childe ſuck ſo often, nor ſo long.</p>
+                  <p>If it come from corruption of the milk, then the fault of the milk muſt be mended, as is before declared, and that which is cor<g ref="char:EOLhyphen"/>rupt muſt be cleanſed by the uſe of ſyrupe of Roſes ſolutive, or ho<g ref="char:EOLhyphen"/>ny of Roſes ſolutive.</p>
+                  <p>Now that the ſtomach of the childe (which is weak and looſe) may be ſtrengthened, you may uſe ſyrupe of Mints, ſyrupe of Q<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inces, &amp;c. Or,</p>
+               </div>
+               <div type="prescription">
+                  <head>A powder or lohoch.</head>
+                  <p>Take of wood Aloes, red Coral, Maſtick, of each half a drach,
+<pb n="28" facs="tcp:118549:17"/>
+Galangal half a ſcruple, make them into powder, and give of it to the child in milk, as much as will lye upon two pence, or three pence at a time; or make a lohoch, or licking medicine thereof with ſyrup of Quinces, and give it often to the childe. Marmalade of Quinces alſo is very good for the child, or a Quince roſted ten<g ref="char:EOLhyphen"/>der and given with Sugar and Cloves in powder: Apply outward<g ref="char:EOLhyphen"/>ly to the ſtomach the plaiſter of a cruſt of bread, the Cerot called diſtomachale, or a cruſt of bread, wet in Muſcadel.</p>
+                  <p>Or,</p>
+                  <p>Take oyl of Maſtick, oyl of Quinces, oyl of Mints, oyl of Wormwood, of each half an ounce, oyl of Nutmegs by expreſſi<g ref="char:EOLhyphen"/>on half a drachme, Cloves in powder a ſcruple, mix them together, and anoint the ſtomach therewith morning and evening warm.</p>
+                  <p>Or,</p>
+                  <p>Take of red Roſes half a handful, Mints a drachme, Cyperus roots and Myrtle berries, of each two drachmes; Boyl them in red wine, and bathe the childes ſtomach therewith warm.</p>
+                  <p>Or,</p>
+                  <p>Wet a ſpunge, or wollen cloth therein, and lay it warm to the ſtomach.</p>
+                  <p>Or,</p>
+                  <p>Take Maſtick, Frankincenſe, red Roſes, of each two drachmes, Cloves a ſcruple; make them into powder, and with the juice of Mints, or the diſtilled water thereof make a Pultis, and lay it to the ſtomach.</p>
+                  <p>Or,</p>
+                  <p>Take of oyl of Maſtick, or oyl of Wormwood two ounces, wax one ounce and a half, Cloves, Mace and Cynamom in powder, of each two drachmes; make all into an oyntment, adding thereto a little Vinegar: Anoint the ſtomach with it morning and evening warm. You may anoint the ſtomach morning and evening with oyl of Mace made by expreſſion.</p>
+                  <p>If the milk be very hot, then anoint the ſtomach with oyl of Quinces, or oyl of Myrtles, or oyl of Roſes.</p>
+                  <p>Or,</p>
+                  <p>Take oyl of Roſes, and oyl Myrtles, of each one ounce, Vinegar two drachmes, red Coral and the three Saunders in powder, of each half an ounce, mix them together, and uſe it to the ſtomach. Coral doth much prevail herein by an occult, or hidden property, and therefore it is hung about the neck of children to ſtay vomi<g ref="char:EOLhyphen"/>ting.</p>
+               </div>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="29" facs="tcp:118549:17"/>
+               <head>CHAP. 14. Of the Conſumption, or Leanneſſe of the Rickets.</head>
+               <p>CHildren do many times wax lean without any manifeſt cauſe, and although they ſuck much, or feed well, yet they are not therewith nouriſhed.</p>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>Now the cauſes are many; as the corruption of the milk, for being either too hot or too cold, it turns into ill humours, and ſo hinders the breeding of good blood; or it may come for want of ſuck, from whence we ſee many times that when a childe con<g ref="char:EOLhyphen"/>ſumes and pines away with ſucking one Nurſe, if it ſuck an other, it ſoon thrives and growes.</p>
+                  <p>Again, worms may be the cauſe, both ſuch as are bred in the belly, as alſo in other parts; or it may come by reaſon of a Feaver, or from a flux of the belly.</p>
+               </div>
+               <div type="signs">
+                  <head>The ſigns.</head>
+                  <p>The ſigns are manifeſt.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognoſticks.</head>
+                  <p>If the child conſume for want of milk, or a good Nurſe, this may ſoon be cured by getting a better Nurſe.</p>
+                  <p>If it come from worms in the belly or other parts, it is not eaſily cured. The Conſumption in moſt children is dangerours if it be not taken in time, and kills many.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>If the fault be in the milk, that muſt be rectified by good dyet of the Nurſe, or if that do not help, then the Nurſe is to be changed.</p>
+                  <p>If worms be the cauſe, then means muſt be uſed to kill worms, as you may ſee in the Chapter of worms.</p>
+                  <p>If leanneſſe come from a Feaver, or without any manifeſt cauſe, make this following Bath.</p>
+               </div>
+               <div type="prescription">
+                  <head>A Bath.</head>
+                  <p>Take the head and feet of a Wether; boyl them till the bones fall aſunder; then bath the childe with this liquor twiſe a day, and after bathing anoint with this following oynment.</p>
+                  <p>
+                     <pb n="30" facs="tcp:118549:18"/>
+Take of freſh Butter, oyl of Roſes and of Violets, of each one ounce, Hogs-greaſe, or the fat of raw Pork half an ounce, wax a quarter of an ounce; make an oyntment, and anoint the body with it warm twiſe a day.</p>
+                  <p>Or,</p>
+                  <p>Anoint the body with oyl of ſweet Almonds and freſh butter mixed together; or elſe anoint the body with the oyntment called <hi>Reſumptivum,</hi> or <hi>Reſumptive</hi> oyntment.</p>
+                  <p>Or,</p>
+                  <p>If it come from great dryneſſe of the ſtomach, bathe the ſto<g ref="char:EOLhyphen"/>mach with milk warm, and uſe this following.</p>
+                  <p>Take of freſh Butter, Hens greaſe, of each half an ounce, Saffron in powder five or ſix grains, oyl of Violets, or Worm<g ref="char:EOLhyphen"/>wood three ounces, mix them together, and anoint the ſtomach morning and evening warm.</p>
+                  <p>If it come from a flux of the belly, then uſe the means to ſtay the looſeneſſe as in the Chapter of the flux of the belly.</p>
+                  <p>Concerning the Rickets, there is a learned Treatiſe ſet forth lately by three or four Doctors, and ſince tranſlated into Engliſh, where you have that diſeaſe accurately and exactly handled, unto which I refer the Reader.</p>
+               </div>
+            </div>
+            <div n="15" type="chapter">
+               <head>CHAP. 15. Of the Hicket.</head>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>THe Hicket in children is cauſed from the corrupt nouriſhment in the ſtomach, or from abundance of milk in the ſtomach, or from the coldneſſe of the ſtomach by the outward air.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognosticks.</head>
+                  <p>The Hicket in children moſt times is void of danger, and the cauſe being taken away, it doth ſoon ceaſe. But if it happen to con<g ref="char:EOLhyphen"/>tinue long, or be complicated with ſome other diſeaſe, as the Fall<g ref="char:EOLhyphen"/>ing ſickneſſe, or Convulſions, many times it proves deadly.</p>
+               </div>
+               <div type="cure">
+                  <pb n="31" facs="tcp:118549:18"/>
+                  <head>The cure.</head>
+                  <p>If the Hicket come from corrupt nouriſhment, or fulneſſe of the ſtomach, 'tis good to make the child vomit either by putting your finger in the throat of it, or by putting down a feather anointed with oyl, or by ſome other light and eaſie means, that hereby the offenſive matter may be taken away; then uſe means to heat and ſtrengthen the ſtomach as in the 13. Chapter, and let the child be ſparing in ſucking and eating.</p>
+                  <p>If it proceed from corruption and fault of the milk, then means muſt be uſed to amend the ſame by good dyet of the Nurſe as be<g ref="char:EOLhyphen"/>fore, and the corrupt milk to be purged away by ſyrupe of Roſes, or hony of Roſes ſolutive, then to uſe Conſerve of red Roſes with red Coral in powder, or Bole-armoniack.</p>
+                  <p>If it come from cold, then let the ſtomach be warmed both with inward and outward means. Give the child ſirup of Mints, or ſirup of Betony, and let the ſtomach be bathed with a decoction made of Mints, Organy Wormwood &amp; Cyperus roots; afterward anoint the ſtomach with oyl of Dil, oyl of Maſtick, or oyl of Mints; or apply a Pultis made with Mints and Dill ſeed bruiſed, and oyl of Maſtick.</p>
+                  <p>Or,</p>
+                  <p>Apply Maſtick and Frankincenſe in powder (mixed with the white of an egg) to the hole of the ſtomach.</p>
+                  <p>Or,</p>
+                  <p>Take of Maſtick one ounce, Frankincenſe, Dill ſeed, ana. <g ref="char:dram">ʒ</g>. 2. make them into powder, and mix them with the juice of Mints, then wet Hempen clouts therein, and apply it to the ſtomach warm.</p>
+               </div>
+            </div>
+            <div n="16" type="chapter">
+               <head>CHAP. 16. Of Gripings and Frettings in the belly.</head>
+               <p>CHildren are very often troubled with gripings in their belly, which ſometimes commeth alone and ſometimes with fluxes of the belly.</p>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>Theſe gripings come chiefly from the milk, either being too windy or too ſharp; for if abundance of milk oppreſſe the childes ſto<g ref="char:EOLhyphen"/>mach
+<pb n="32" facs="tcp:118549:19"/>
+crudities and winde are ſoon bred; which alſo doth the ſooner happen if the Nurſe have uſed windy meat, or if the belly of the childe be tender and cannot endure the cold air. But if the milk be corrupted in the ſtomach, when it deſcends to the bowels it doth gnaw and pinch them, ſo that it cauſeth great pains and gripings. Sometimes worms are the cauſe thereof.</p>
+               </div>
+               <div type="signs">
+                  <head>The ſigns.</head>
+                  <p>Theſe gripings are eaſily known, for the childe is very unquiet, and cryeth frequently, neither will it ſuck, and many times cannot make water becauſe of the wind that oppreſſeth the neck of the bladder and ſtoppeth the urine.</p>
+                  <p>If theſe gripings come of winde, ſometimes the pain remitteth or ceaſeth, and ſometimes increaſeth, and the belly is puffed up and maketh a noiſe.</p>
+                  <p>If they proceed from a humour, the pain is almoſt continually; and if from a tough and flegmatick humour, the belly is moſt times bound, and the excrements are like ſnot or ſnivel.</p>
+                  <p>If they proceed from corrupt milk, or choler and ſharp hu<g ref="char:EOLhyphen"/>mours, then the belly is moſt times looſe, and that which is voided is yellow or green.</p>
+                  <p>If worms be the cauſe, then the ſigns of worms are manifeſt.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognoſticks.</head>
+                  <p>Theſe pains if they continue long, they weaken the ſpirits, and many times bring Convulſions and the Falling ſickneſſe. Thoſe pains are worſt, or moſt dangerous that proceed from corrupt milk and ſharp humours. They are dangerous alſo that ariſe from worms.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>If theſe gripings come of winde and crude, or raw humours, and the body be bound it will be neceſſary to give the childe this or the like Cliſter.</p>
+               </div>
+               <div type="prescription">
+                  <head>A Clyſter.</head>
+                  <p>Take Pellitory of the wall and Camomil flowers of each half a handful; boyl them in broth made of meat; ſtrain it, and take two, three, or four ounces of this liquor, and add to it hony of Roſes ſolutive one ounce, half the white of an Egg, and make a Cli<g ref="char:EOLhyphen"/>ſter,
+<pb n="33" facs="tcp:118549:19"/>
+which may be given to a child of a moneth, or two moneths old. Or give it ſome oyl of ſweet Almonds new with a little Su<g ref="char:EOLhyphen"/>gar one hour before it ſucks, for this will looſen the belly and eaſe the pains.</p>
+                  <p>Or,</p>
+                  <p>You may give a ſcruple of Anniſeed groſly beaten in Pap, Milk, or ſuch like ſweetened with Sugar. To a child newly born it doth help herein, and profitably purges away, or expels from the bowels green choler and filthy flegme. This doth <hi>Heurnius</hi>
+                     <note n="*" place="bottom">
+                        <hi>Heurn. meth. ad prax. lib.</hi> 2. <hi>cap.</hi> 26. <hi>fol.</hi> 293.</note> commend by his own experience.</p>
+                  <p>You may alſo give the child Penniroyal water with Sugar, or Diaſcordium at night.</p>
+                  <p>Outward means alſo (which do moderately warm, make thin, and expel wind) muſt be uſed, as the oyl of Dill, or oyl of Camo<g ref="char:EOLhyphen"/>mil, with which anoint the belly warm morning and evening.</p>
+                  <p>Or,</p>
+                  <p>Bruiſe Pellitory of the wall and boyl it in oyl of Camomil, or Sal<g ref="char:EOLhyphen"/>lad oyl, and apply it warm to the belly.</p>
+                  <p>Or,</p>
+                  <p>Take Camomil flowers, the tops of Dill, of each a handful, Fe<g ref="char:EOLhyphen"/>negreek and Linſeed bruiſed of each half an ounce; boyl them in Wine, and twiſe a day (before feeding or ſucking) let the childs belly be bathed therewith.</p>
+                  <p>If they come from corrupt milk and ſharp humours, then clean<g ref="char:EOLhyphen"/>ſing means are to be uſed; as ſirup of Roſes, hony of Roſes ſolutive or ſirup of Succory with Rubarb: or give a Clyſter made of the decoction of Bran, and Pellitory of the wall, adding one ounce, or one ounce and a half of ſirup of Roſes ſolutive.</p>
+                  <p>Or,</p>
+                  <p>Take of the decoction of Barly 3. or 4. ounces, oyl of Dill one ounce, or one ounce and a half, the white of one Egg, make a Cli<g ref="char:EOLhyphen"/>ſter, and give it.</p>
+                  <p>Anoint the belly with oyl of Roſes, or oyl of Dill, and oyl of Camomil mixed together.</p>
+                  <p>The nurſe muſt avoid all windy meats, as Peaſe, Beans, Beets hard Eggs, &amp;c.</p>
+               </div>
+            </div>
+            <div n="17" type="chapter">
+               <pb n="34" facs="tcp:118549:20"/>
+               <head>CHAP. 17. Of looſeneſſe and flux of the belly.</head>
+               <p>FLuxes of the belly and looſeneſſe doth often happen to children, and that many times about the time of breeding their teeth, as <hi>Hippocrates</hi> witneſſeth.<note place="bottom">
+                     <hi>Hip. Aph.</hi> 3. 25.</note>
+               </p>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>The cauſe hereof is bad concoction, or corruption of the milk, or nouriſhment: For a Fever doth commonly follow the breed<g ref="char:EOLhyphen"/>ing of teeth, ſo that by the unnatural heat the digeſtion is hurt; then by much watching pain is increaſed and the concoction hin<g ref="char:EOLhyphen"/>dred. Alſo by pain the neceſſary heat (which brings good dige<g ref="char:EOLhyphen"/>ſtion) is drawn from the ſtomach, and ſo concoction is diſturbed. Moreover the heat of the fever doth ſtir up many humours which flowing to the belly cauſe theſe fluxes Again by reaſon of the Fe<g ref="char:EOLhyphen"/>ver which happeneth to children about the time of breeding their teeth, they ſuck, or drink more then is meet; and alſo the Nurſe moſt times (that ſhee may content the child) doth often offer it the breaſt, and ſo diſpoſe it to ſleep more then is neceſſary, by which means both food and drink not being well concocted, are avoided by ſtool both crude and corrupt. <note n="*" place="bottom">
+                        <hi>Mer. de morb. pueror. lib.</hi> 2. <hi>ch.</hi> 25. <hi>fol</hi> 147.</note>
+                     <hi>Mercurialis</hi> addeth an other cauſe of this flux while children breed their teeth, viz. from the pain that is ſtirred up by unnatural heat, from whence the hu<g ref="char:EOLhyphen"/>mours are drawn to thoſe parts, they become putrid ſalt and ſharp, and ſo falling down to the ſtomach, and from thence to the bowels, ſtir up exceedingly the expulſive faculty, from whence follow theſe fluxes. But ſome do not concieve this to be probable.</p>
+                  <p>Firſt, becauſe thoſe humours thus attracted, or gathered toge<g ref="char:EOLhyphen"/>ther, do not ſtay or abide in the mouth or gums, but fall down to the ſtomach.</p>
+                  <p>Secondly, becauſe the teeth and gums by the continual uſe of the milk, or ſucking, are made more ſoft and temperate.</p>
+                  <p>Thirdly, becauſe in moiſt children there cannot be ſo great a heat, which can produce ſo much acrimonie and ſaltneſſe.</p>
+                  <p>
+                     <pb n="35" facs="tcp:118549:20"/>
+Fourthly, becauſe if theſe humours were ſo ſalt and ſharp, they would ſoon breed ulcers of the mouth. Sometimes when children do not breed teeth, the cauſe may be from the outward air, where<g ref="char:EOLhyphen"/>by the ſtomach &amp; belly of the child are too much cooled, and ther<g ref="char:EOLhyphen"/>by concoction is hindred: or when the ſtomach is oppreſſed with too much food or nouriſhment whereby crudities and corruption of the food doth follow, ſo that if the ſame be not rejected or caſt up by vomiting, it is carried down to the belly and cauſeth theſe fluxes: or it may ariſe from bad nouriſhment, or from the badnes of the milk, from whence corrupt juyce is bred in the ſtomach which nature expels by ſtool. Sometimes it may proceed from the moiſtnes and looſenes of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he bowels, which moiſture hath its original from ſome ſharp humours in the ſtomach, and from thence falls down in to the bowels.</p>
+               </div>
+               <div type="signs">
+                  <head>The ſignes.</head>
+                  <p>If the flux come from the breeding of teeth, it may be known from the ſigns of breeding of teeth; as in the ſixt Chapter. If it come from crude humours, then the food is voided not con<g ref="char:EOLhyphen"/>cocted, and the child is troubled with belching, alſo the excrements are white and frothy. If it come from hot humours, and corrupt nouriſhment, then the excrements are yellow, or green, alſo ſtink<g ref="char:EOLhyphen"/>ing, and the pains of the belly are greater.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognoſticks.</head>
+                  <p>If the flux in children be not violent, the danger is not great, neither muſt it be ſuddenly ſtopped, becauſe the corrupt humours in the ſtomach hereby are evacuated or purged, which if they were ſtopt would prove dangerous. From hence ſaith <hi>Hippocrates,</hi>
+                     <note n="*" place="bottom"> 
+                        <hi>Hip. de dentione fol.</hi> 59.</note> ex<g ref="char:EOLhyphen"/>cept blood come forth, ſtop it not till the ſeventh day be paſſed.</p>
+                  <p>Such children as have looſneſſe when they breed teeth, are leſſe ſubject to convulſions then thoſe that are bound.</p>
+                  <p>If children do not eaſily endure the flux, but have weak ſto<g ref="char:EOLhyphen"/>machs, and the ſpirits are low, alſo the flux continuing long, and they grow lean, then muſt the looſenes be ſtayed. That flux is dangerous in children, if it come by reaſon of acute or ſharp fe<g ref="char:EOLhyphen"/>vers, and eſpecially if the excrements be black.</p>
+               </div>
+               <div type="cure">
+                  <pb n="36" facs="tcp:118549:21"/>
+                  <head>The cure.</head>
+                  <p>In the cure of looſeneſſe of the belly, we muſt conſider whether the child ſuck or not, then whether the teeth break forth or not: For if the child ſuck, then the nurſes milk muſt be looked on whether it be good or bad; If bad then it muſt be mended, or the Nurſe changed. The Nurſe muſt uſe a binding dyet, and abſtain from fruits and raw nouriſhment, as alſo from thoſe things that are of hard digeſtion. If the Infant ſuck or not, and the flux be of ſome continuance, means muſt be uſed to ſtay it, and ſuch means as firſt cleanſe and then bind the body, as ſirup of Roſes ſo<g ref="char:EOLhyphen"/>lutive, or hony of Roſes ſolutive. Clyſters may be uſed.</p>
+               </div>
+               <div type="prescription">
+                  <head>A Clyſter.</head>
+                  <p>Take of Barly water (made with ſteel) four ounces, red Sugar one ounce, mix them together and make a Clyſter. Where the humours are cleanſed, and the flux doth proceed from a hot cauſe, give ſirup of dry Roſes, ſirup of Quinces, ſirup of Mirtles, ſirup of red Coral, &amp;c. Or give the powder of Mirtles with a little Dra<g ref="char:EOLhyphen"/>gons blood, or give Sorrel ſeed, Plantain ſeed, or red Roſes in powder with the yolk of an Egg roſted at the fire.</p>
+                  <p>Or,</p>
+                  <p>Take of Mullein flowers red Roſes of each half a ſmall handful, of Comfry roots the greater, and Tormentil roots, of each a drach. bruiſe the roots, and boyl them all in water, ſtrain it, and to three ounces of the cleareſt add one ounce of ſirup of Quinces, and give the child often of it: or take Nutmeg and Maſtick in powder of each a ſcruple; give it at twiſe with the juyce, or a ſcruple of Quinces.</p>
+                  <p>Or,</p>
+                  <p>Take Acorn cups, Sorrel ſeed, and the kernels of Raiſons dryed, of each a drachme, white Poppy ſeed half a drachme, make them into powder, and give ten grains or twenty grains of it morning and evening in ſirup of Quinces, or ſirup of red Coral.</p>
+                  <p>Outward means muſt be uſed alſo.</p>
+                  <p>Take oyl of Mirtles, oyl of Roſes, oyl of Maſtick, of each one ounce, with half an ounce of wax, make an ointment, and anoint the belly therewith morning and evening warm.</p>
+                  <p>
+                     <pb n="37" facs="tcp:118549:21"/>
+Or,</p>
+                  <p>Bath the belly with a decoction made of red Roſes, Mullein, Plantain, in red Wine.</p>
+                  <p>Or,</p>
+                  <p>Take red Roſe leaves, Mullein, of each a handful, Cipres roots two drachmes, Maſtick half an ounce; make them into groſſe powder, and make a quilt or bag, which being boyled in red Wine, apply it warm to the belly.</p>
+                  <p>Or,</p>
+                  <p>Take of the pulpe of Quince boyled in red Wine 4. ounces, of toſted bread (wet in Vinegar) one ounce and a half; with a little oyl of Maſtick, make a Pultis and apply it to the belly and ſtomach warm. Or lay to the belly a plaiſter of a cruſt of bread, or the Cerot called Stomachale. If it come from a cold cauſe, and that the excrements be white, give ſirup of Quinces with Mint water. Some commend the maw of a Kid, or Hare, if ten grains thereof be given, and the child to take no milk that day, leaſt it curdle in the ſtomach; but give it bread boyled in water with Roſewater and Sugar.</p>
+                  <p>Apply outwardly Mints, Wormwood, Maſtick and Comin ſeed.</p>
+                  <p>Or,</p>
+                  <p>Take of Roſe ſeeds one ounce, Comin ſeed and Anniſed of each two drachmes, make them into powder, and with oyl of Maſtick, oyl of Wormwood and a little wax make an ointment, and uſe it warm to the belly.</p>
+                  <p>Or,</p>
+                  <p>Apply Mints (boyled in red Wine) to the ſtomach, or a cruſt of bread wet in Mint water: or make a quilt or bag of Mints, Wormwood, red Roſes, Maſtick, Nutmegs and Cloves, and ap<g ref="char:EOLhyphen"/>ply it to the belly.</p>
+               </div>
+            </div>
+            <div n="18" type="chapter">
+               <pb n="38" facs="tcp:118549:22"/>
+               <head>CHA.P. 18. Of Coſtivenes, or ſtopping of the belly.</head>
+               <p>AS Children are often troubled with fluxes of the belly, ſo are they many times troubled with ſtopping thereof.</p>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>It may proceed from extream cold and dryneſſe of the belly, which happens to ſome children, from their birth; or from tough and flegmatick humours, which are as it were rowled up with the excrements, and cleave ſo faſt to the bowels, that they are hardly voided, or from corrupt milk (with which the childe is nouriſh<g ref="char:EOLhyphen"/>ed) from whence tough and flegmatick humours are bred in the ſtomach; which cometh to paſſe by reaſon of the weakneſſe thereof, as alſo when the mother or nurſe feed upon tough meats, and drink but little; for it ſeldom happeneth that children are fed with ſuch dyet, except grown children; or it may come from the intemperate heat of the Liver, ſpleen, or reins of the childe, where<g ref="char:EOLhyphen"/>by the excrements become dry, or it may happen, when Choller that comes from the gall, (and ſhould be carried down to the bowels) is turned ſome other way.</p>
+               </div>
+               <div type="signs">
+                  <head>The Signs.</head>
+                  <p>The ſigns are manifeſt. If it be from a natural dryneſſe, then the childe is conſtantly bound and ſtopt.</p>
+                  <p>If tough and thick flegme be the cauſe, the excrements that are voided, are mixed with the ſame.</p>
+                  <p>If there be any error in the Mother or Nurſe by ill dyet, that is eaſily known.</p>
+                  <p>If it be from the heat and drineſſe of the Liver and Spleen, or Kidneys, it is known by thoſe ſigns that ſhew the heat of thoſe par<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</p>
+                  <p>If Choller be turned an other way, and that be the cauſe, then the excrements are white, and not dyed at all with Choller, and the skin of the child looks yellow.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognoſticks:</head>
+                  <p>Children that are much bound in their bodies have ſeldom their
+<pb n="39" facs="tcp:118549:22"/>
+health well; and it is far better for youth to have their bellies looſe then bound, ill vapours ariſe from the excrements to the whole body, and cauſe gripings of the belly, pain of the head, and many other diſtempers.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>Firſt let the Mother or Nurſe uſe a looſening dyet, and ſuch things as are mollifying. And let them take alſo Manna, Caſſia, or ſirup of Roſes, or a little Hony in the morning.</p>
+                  <p>If the child be of ſome reaſonable growth, then you may give it Manna, or Caſſia, as from two drachmes to one ounce; or if it be young, you may give it half an ounce, or one ounce of ſirup of Roſes. Suppoſitories alſo made of Hony and Salt (and put up into the body) are good and ſafe, or Violet comfits anointed with oyl and ſo uſed, or Cliſters may be given; as take common oyl two, three, or four ounces, of brown Sugar, two or three drach. the yolk of an egg, Salt three or four corns, make a Clyſter and adminiſter it.</p>
+                  <p>Or,</p>
+                  <p>Take of Marſh-mallowes half an ounce, common Mallowes, Pellitory of the Wall, of each half a handful, Cammomil flowers, Linſeed and Fenigreek bruiſed, of each a drachme; boyl them in ſufficient water, and take of the ſtrained liquor three, four, or ſix ounces (according to the age of the childe, in which diſſolve of Caſſia two, three, or four drachmes, common oyl one ounce, or one ounce and a half; with the yolk of an egg, make a Clyſter. You may anoint the Navil of the childe with Butter, or oyl of ſweet Almonds, either alone, or mixed with a grain or two of Scammony or Coloquintida. The Gall of an Ox or Cow laid upon a clout, and ſo laid on the Navel cauſeth looſeneſſe, or a plaiſter made with the gall of an Ox, a roſted Onyon and Butter mixed together, and applyed warm to the belly doth the ſame.</p>
+                  <p>If you deſire ſtronger means, then take the juice of Walwort and Milduſt, boyl them together, and apply them warm to the Navel.</p>
+               </div>
+            </div>
+            <div n="19" type="chapter">
+               <pb n="40" facs="tcp:118549:23"/>
+               <head>CHAP. 19. Of Worms.</head>
+               <p>AMong all the diſeaſes that are incident to children, this of Worms is not the leaſt. There are three ſorts of wormes, round flat, and ſmall worms called <hi>Aſcharides,</hi> and are bred in the fundament.</p>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>Worms are cauſed of a crude and putrified flegme and other ill humours, but never of Choller nor Melancholy; For all bitter things kill worms. All manner of fruits alſo breed worms, eſpeci<g ref="char:EOLhyphen"/>ally in children and moiſt bodies.</p>
+               </div>
+               <div type="signs">
+                  <head>ſigns of long and round worms.</head>
+                  <p>The ſigns of long and round worms are theſe; The mouth aboundeth with moiſture, the breath ſtinketh: terrible and fear<g ref="char:EOLhyphen"/>ful dreams follow, and they gnaſh and grind their teeth in their ſleep, and ſtart ſuddenly in their ſleep, their tongues are hot and dry, and they often rub their noſes; they have a dry cough, and ſometimes vomiting and the Hicket followeth: they feed much ſometimes, and ſometimes little; great drought doth moſt times accompany wormes, the belly is hard and ſwollen, and ſometimes bound, but moſt times looſe. The urine is moſt times white and thick, and great gripings of the belly doth follow, eſpecially when the belly is empty. The body waxeth lean for want of that nouriſh<g ref="char:EOLhyphen"/>ment which the worms conſume. Oftimes they have cold ſweats, the face is ſometimes red, and ſometimes pale, and many times they are taken with Convulſions, and fevers happen. The pulſe is very uncertain. But the moſt certain ſign of all is, when they void worms in their excrements.</p>
+               </div>
+               <div type="signs">
+                  <head>Signs of long and flat worms.</head>
+                  <p>If the worms be long, and flat, they have a great appetite to feed, and except they do eat, they have a great pain and grawing in their
+<pb n="41" facs="tcp:118549:23"/>
+belly, and many times they faint; the body waxes lean and grow<g ref="char:EOLhyphen"/>eth weak; but the moſt certain ſign is, if with their excrements they void flat ſubſtances like Gourd ſeedes.</p>
+               </div>
+               <div type="signs">
+                  <head>Signs of the leaſt ſort of worms.</head>
+                  <p>Signs of the leaſt ſort of Worms (which are engendered in the great Gut) are theſe. A great itching in the fundament, and an often deſire to go to ſtool; the excrements are like beaſts excre<g ref="char:EOLhyphen"/>ments and very ſtinking, and theſe worms come oftentimes forth in the excrement, which is the moſt certain ſign.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognoſtiks.</head>
+                  <p>Although ſometimes children have worms, and that without any great hurt or danger, yet many times they produce dangerous ſymptomes.</p>
+                  <p>The ſmall worms are leſſe dangerous then the others, becauſe they are ſmall and cleave to the right gut, and ſo are far diſtant from the noble parts: yet ſometimes they cauſe ulcers in the right gut.</p>
+                  <p>Broad Worms are hardly cured, and produce bad ſymptomes, yea and many times death.</p>
+                  <p>Long and round Worms are moſt hurtful and bring moſt dan<g ref="char:EOLhyphen"/>gerous ſymptomes, and do many times pierce through the bowels. It is better that Worms be thin and ſmall then full, or great and filled with blood. It is better if a few worms be voided, then if many be voided. If the Worms be white, it is far better then to have them yellow, livid, red or black.</p>
+                  <p>It is more dangerous to have worms voided by the mouth, then by ſtools. Worms are more dangerous with a Fever then without a Fever.</p>
+                  <p>If a Convulſion, with gnaſhing of teeth and loſſe of appetite happen to ſuch as void Worms, it is dangerous.</p>
+               </div>
+               <div type="location">
+                  <head>Of the place where the Worms breed.</head>
+                  <p>For the place where Worms breed, it is the bowels chiefly, and that for theſe reaſons.</p>
+                  <p>Firſt, becauſe the matter or ſubſtance of which they are bred
+<pb n="42" facs="tcp:118549:24"/>
+beeing a crude and raw humour) is ſo plentifully found in the bowels, that there is ſufficient to breed and nouriſh them. Indeed crudities or raw humours are found in other parts of the body, but not ſufficient to breed Worms. Secondly, becauſe there is room enough for them to breed, the bowels being very large. And the veins they are too narrow to breed them there.</p>
+                  <p>Thirdly, becauſe nature ſhewing her care of life, hath ſo ap<g ref="char:EOLhyphen"/>pointed it, that although worms many times kill, yet that they ſhould be bred in ſuch places where they may do leaſt hurt, and be with more facility and eaſe caſt out of the body. Now although Worms be chiefly engendered in the bowels, yet Authors mention many other places where they are found.</p>
+                  <p>Sometimes Worms have been brought forth out of the noſe. <hi>Benivenius de abdit. Morb. Cauſ. cap.</hi> 100. <hi>fol.</hi> 19. <hi>Schenchius obſervat. lib. fol.</hi> 179.</p>
+                  <p>Sometimes Worms have been found in the corner of the eyes, and have come forth. <hi>Amat. Cent.</hi> 7. <hi>cur.</hi> 63. <hi>Schench. obſervat. lib.</hi> 1. <hi>fol.</hi> 179.</p>
+                  <p>Sometimes they have come forth out of the ears, <hi>Schenchius, obſervat. lib.</hi> 1. <hi>fol.</hi> 191. Sometimes they have been found in the teeth. <hi>Schench. obſer. lib.</hi> 1. <hi>fol.</hi> 218. <hi>Antonius Benivenius</hi> relates of one that was troubled with a Cough, and had uſed many means but all in vain, at length counſel was given him to take the juyce of Horehound with hony for many dayes, with which he fell a Coughing and brought up a worm, and was thereby cured. <hi>Be<g ref="char:EOLhyphen"/>niven. de abd. morb. cauſ. cap.</hi> 77. <hi>fol.</hi> 16.</p>
+                  <p>Sometimes worms have been found in the blood. <hi>Schench, obſer. lib.</hi> 3. <hi>fol.</hi> 457. Sometimes in the heart; and memorable is that of late years, of a Serpent, or Serpentine worm that was found in the left ventricle of the heart, in <hi>John Pennant</hi> of the age of one and twenty years. You may ſee the full relation thereof put out by <hi>Dr. May,</hi> Printed 1639.</p>
+                  <p>Sometimes they have been found in the liver. <hi>Schench. obſer. lib.</hi> 3. <hi>fol.</hi> 452. and ſometimes in the Kidneys. <hi>Schench. obſer. lib.</hi> 4. <hi>fol.</hi> 509. Sometimes they have been found coming out of the groyn.</p>
+                  <p>
+                     <hi>Tulpius obſerv. lib.</hi> 3. <hi>cap.</hi> 12. Sometimes they have been voi<g ref="char:EOLhyphen"/>ded by urine. <hi>Rouſſens Epiſtol.</hi> 10. <hi>fol.</hi> 39. Sometimes Worms and other living creatures have been bred in the womb. <hi>Schench.
+<pb n="43" facs="tcp:118549:24"/>
+obſerv. lib.</hi> 4. <hi>fol.</hi> 718. Sometimes worms have been found in womens breaſts. <hi>Schench. obſerv. lib</hi> 2. <hi>fol.</hi> 338. And ſome<g ref="char:EOLhyphen"/>times they have eat their way through the ſtomach, bowels, Navel, Hypochonders and groyns. <hi>Schench obſerv. lib.</hi> 3. <hi>fol.</hi> 409.</p>
+                  <p>I could weary the Reader with many more obſervations of the like nature, but it is time to come to the cure of worms.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>Firſt to preſerve children from worms, let their dyet be ſuch as may not engender worms. Let them avoid all ſweet, fatty and tough meats, as alſo milk, Fiſh, Figs and all fruits.</p>
+                  <p>They may take the ſhavings of Harts-horn or Harts-horn burnt in powder in Beer or in their Broth. If children be of any reaſon<g ref="char:EOLhyphen"/>able growth, you may give them Aloes, Hiera picra, or Rubarb in powder made up in pils with London Treacle, or ſirup of Roſes. Or give them in the pap of an Apple: or give them Troſſes made of Diaturbith with Rubarb. Many herbs alſo that dry and reſiſt the breeding of worms, are profitable, as wormwood, Centory water, Germander, &amp;c.</p>
+                  <p>But becauſe theſe are ſo bitter, children will hardly take them; you may give them a decoction of the roots of graſſe and mouſe-ear with the juyce of Lemons or Citrons. And ſometimes you give them a drop or two of the ſpirit of Vitriol in Beer, or poſſet drink.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>Secondly, for the cure of Worms; There are many common medicines in uſe as Aloes, Sea-moſſe, Wormſeed, &amp;c.</p>
+                  <p>The manner of giving them you may ſee in my Book of the na<g ref="char:EOLhyphen"/>ture of Simples. Wormſeed and Figs, Wormſeed and hony, or wormſeed and muſcadine, is a very good medicine for children that are of ſome bigneſſe, if you give it in the morning faſting and let them faſt one hour after it</p>
+                  <p>Give this powder following.</p>
+                  <p>Take of Wormſeed and moſſe, of each a drachme and a half, white Dittany roots and Tormentil roots of each half a drachme; make all into powder, and give it from ten grains to a ſcruple or more, in any convenient liquor.</p>
+                  <p>
+                     <pb n="44" facs="tcp:118549:25"/>
+Or,</p>
+                  <p>Take of Wormſeed two drachmes, Seamoſſe, Harts horn burnt, of each a drachme, Piony root, white Dittany, magiſter of Coral, of each a ſcruple; make all into powder, and take it as before. If a Fever be joyned therewith, then uſe medicines more cooling, and ſuch as reſiſt malignity as the juyce of Lemons, and Oranges, Vine<g ref="char:EOLhyphen"/>gar, Harts horn, Bezar, &amp;c. Or make this Potion.</p>
+                  <p>Take of the diſtilled water of Graſſe four ounces, ſirup of Citrons one ounce, ſirup of Violets half an ounce, ſpirit of Vitriol two or 3. drops, mix them together for a Julep, and give a ſpoonful or two thereof at any time.</p>
+                  <p>Alſo note, that in killing worms bitter things be given at the mouth, and ſweet things adminiſtred by Clyſters for by the bitter things they deſcend lower, and feeding on the ſweet they are ſoon brought away; after the giving of any medicine to kill worms, you may give a Clyſter of milk and Sugar, or this following.</p>
+                  <p>Take of Raiſons in number ten, Figs in number ſeven; boyl them in water, ſtrain it, and in 4. or 6. ounces of the decoction, diſſolve of Sugar one or two ounces.</p>
+                  <p>Note alſo if one medicine do not bring away Worms, that you muſt uſe variety of medicines; or continue one medicine for ſome time, as about the full of the Moon give your medicine at the leaſt two or three dayes together. Give a ſpoonful of ſirup of Succory with Rubarb for divers mornings together. Before you give medicines to children for the Worms, it is convenient to give ſweet and fatty things, as milk, Hony, Sugar, &amp;c. And it is very pro<g ref="char:EOLhyphen"/>fitable to mix ſweet things with ſuch medicine as we give for the Worms.</p>
+               </div>
+               <div type="cure">
+                  <head>Outward means to kill worms.</head>
+                  <p>Outward means are to be uſed alſo; as you may boyl Worm<g ref="char:EOLhyphen"/>wood and Centory, Peach leaves and Lupins in water, and apply them warm to the belly, or apply Cumin ſeed with Ox Gall, or Bulls gall, or anoint the belly with the oyl of Savin, or oyl of Rue, morning and evening warm.</p>
+                  <p>Or,</p>
+                  <p>Take of London Treacle, or Mithridate half an ounce, mix it
+<pb n="45" facs="tcp:118549:25"/>
+with the juice of Wormwood, ſpread it on leather, and lay it to the belly,</p>
+                  <p>Or,</p>
+                  <p>Take of Pills called <hi>ſine quibus,</hi> half a drachme, Wormwood in powder a drachme, Myrrhe and Aloes in powder of each two ſcruples, Lupins in powder a drachme and a half, with Ox gall make a plaiſter and lay it to the belly.</p>
+               </div>
+            </div>
+            <div n="20" type="chapter">
+               <head>CHAP. 20. Of Ruptures, or Burſtings.</head>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>CHildren are often troubled with this diſeaſe, and that chiefly male children, and the cauſe may be from too much crying, coughing, and too frequent going to ſtool. In elder children it may come by too much motion of the body; as running, or leap<g ref="char:EOLhyphen"/>ing, by a fall, or riding aſtride; for the Rim or film of the belly in children is but weak and doth ſoon break, or grow looſe, and ſo the guts fall into the cods.</p>
+               </div>
+               <div type="signs">
+                  <head>The ſigns.</head>
+                  <p>The ſigns are manifeſt.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognoſticks.</head>
+                  <p>The Rupture in children is more eaſie to cure then in Elder perſons, and that becauſe the Rim of the belly is as yet more ſoft, and ſo is ſooner joyned together.</p>
+                  <p>Some hold that all watery Ruptures are worſe to cure then the Rupture wherein the guts fall into the cods; but in infants 'tis not ſo, for experience doth witneſſe, that the watery Rupture is cured ſoon with fit means, as they grow up to any bigneſſe.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>In Ruptures of the bowels, care muſt be had that the childe be looſe bellyed, and that it take not too great plenty of nouriſh<g ref="char:EOLhyphen"/>ment wherby the belly may be diſtended, or ſwollen, alſo the child muſt be kept from crying, and from all vehement motion. For the cure hereof lay the childe upon his back, that his head may be lower then his feet, and gently reduce the bowels with your hand
+<pb n="46" facs="tcp:118549:26"/>
+into their due place (but firſt let the place be anointed with oyl of water Lillies, or oyl of Cammomil) then apply this Pultis fol<g ref="char:EOLhyphen"/>lowing.</p>
+               </div>
+               <div type="prescription">
+                  <head>A Pultis.</head>
+                  <p>Take of Plantain leaves and Sanicle, of each half an ounce, meal of Lentils and Lupins, red Roſes, of each three drachmes, <hi>Olibanum</hi> a drachme, Allom half a drachme; make them into powder, and take part of it, and with the white of an egg bea<g ref="char:EOLhyphen"/>ten, make a Pultis and apply it warm, or make this Plaiſter.</p>
+               </div>
+               <div type="prescription">
+                  <head>A Plaiſter.</head>
+                  <p>Take of the oyntment called <hi>Deſiccativum,</hi> two ounces, Ma<g ref="char:EOLhyphen"/>ſtick, <hi>Olibanum, Sarcocol,</hi> Cypreſſe nuts in powder, of each a drachme, with a little wax and oyl of Maſtick, make a loft plaiſter, apply it to the place, and binde it on, or get a Truſsand put on.</p>
+                  <p>Or, you may apply a Plaſter of the plaiſter called <hi>Em<g ref="char:EOLhyphen"/>plaſtrum ad Herniam.</hi> Or, take the leaves of thorough wax, and the root of great Comfrey, bruiſe them, and apply it warm on a linnen cloth, after twelve hours put on freſh, and ſo apply four or five, one after another. Or, take great Comfrey root bruiſed and cleanſed, apply it as the former.</p>
+               </div>
+               <div type="cure">
+                  <head>Inward means.</head>
+                  <p>Inward means are alſo very neceſſary, as give the childe five or ten grains of Oſmund oyal, or water Fern (more or leſſe, as the childe is in bigneſſe) in milk or pap, morning and evening, or give as much of the herb called Rupturewort.</p>
+                  <p>Or,</p>
+                  <p>Take Sanicle, Plantain, of each half an handful, Egrimony a handful, Comfrey root the greater, half an ounce; boyl them in about a pint of water; ſtrain it, and being ſweetned with Sugar, give the childe often to drink of it.</p>
+                  <p>Or,</p>
+                  <p>Take Comfrey the greater and Knotgraſſe, of each a handful; Boyl them in milk, and give the childe often of it. Mouſ-ear in powder is very profitable, being given in milk, or pap. So is ſmall Moonwort boyled in red wine alone, or boyled with Com<g ref="char:EOLhyphen"/>frey, and ſo taken. Thorough wax alſo taken in powder, or de<g ref="char:EOLhyphen"/>coction, helpeth Ruptures. Be ſure the bowels be wel put up before inward or outward means be uſed.</p>
+                  <p>
+                     <pb n="47" facs="tcp:118549:26"/>
+If the Cod be ſwollen of reaſon of water, uſe oyl of Elder, oyl of Rue, or oyl of Bay, or make Pultis of Bean flower, Lin<g ref="char:EOLhyphen"/>ſeed, Fenegreek, Camomil flowers, Elder flowers, and Cumin ſeed in powder, and with a ſufficient quantity of oil of Elders make it up. Let the childe be kept in bed, and as quiet as may be, and to avoid all windy and watery meats.</p>
+               </div>
+            </div>
+            <div n="21" type="chapter">
+               <head>CHAP. 21. Of ſwelling, or coming forth of the Navel.</head>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>THis may happen when the Navel is not well bound, and when it is cut too long, or when the Rim of the belly is looſened, and from thence watery and windy humours get in and cauſeth the Navel to ſwell; which is cauſed from too much crying of the childe, or coughing: or it may come to paſſe when the Rim of the belly is broken, or when the Navel is ulcerated, and the guts fall down to the Navel, which diſeaſe is called properly <hi>Exomphalon,</hi> and <hi>Omphalocele.</hi>
+                  </p>
+               </div>
+               <div type="signs">
+                  <head>The ſigns.</head>
+                  <p>The ſigns are manifeſt.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognoſticks.</head>
+                  <p>If the Midwife do not rightly cut the Navel of the childe, but leave it longer then is meet, this is not to be helped, but yet 'tis more troubleſome then dangerous. This diſeaſe being not of long continuance is eaſily cured, but continuing long it is hardly cured and many times remains uncurable. If it be not cured in Infants, it may in grown years (eſpecially if the bowels being fallen down be inflamed) bring the <hi>Iliack paſſion,</hi> and ſo death.</p>
+               </div>
+               <div type="case_history">
+                  <head>A Hiſtory.</head>
+                  <p>And now while I am writing this I have a Patient about fifty years of age, who for many years had a Rupture of her Navel, and and on the 26. of this <hi>Auguſt.</hi> 1652. ſhe was taken with the <hi>Ili<g ref="char:EOLhyphen"/>ack paſſion,</hi> who vomited very much, and on the 27. day, ſhe vo<g ref="char:EOLhyphen"/>mited
+<pb n="48" facs="tcp:118549:27"/>
+up her excrements, neer a baſon full at a time, and though Clyſters were adminiſtred to her, yet all in vain, for they come ſtill away without any thing elſe, and whatſoever ſhe took at the mouth came up again, ſo on the 30. day ſhe dyed.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>If therim of the belly be onely relaxed, or looſened, binding and ſtrengthening means are to be uſed; but if broken, then vomiting and conſolidating means are to be uſed. Let the child be kept from crying, and uſe all means to quiet it, and to bring it to reſt. If there be a Cough, uſe means to mitigate the ſame, and let the child avoid all vehement motion. Bathing is not convenient, for hereby the Navel is made more looſe. Both Nurſe and Children muſt avoid all windy and flatulent meats. Let the belly be kept ſo looſe, that ther may not be too much ſtraining of the body in going to ſtool. Then if the rim of the belly be looſened, and wind ex<g ref="char:EOLhyphen"/>tend the Navel; Take of Comin ſeed, Bayberries, Lupines in pow<g ref="char:EOLhyphen"/>der, of each half an ounce, with red Wine make a Pultis, and apply i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> warm. Or take Cow dung in powder, Barly flower, and Bean flower, of each one ounce, Comin ſeed in powder half an ounce, with the juyce of Knotgraſſe make a Pultis, and apply it to the na<g ref="char:EOLhyphen"/>vel.</p>
+                  <p>Or,</p>
+                  <p>Take Cow dung and boyl it in milk, and lay it to the navel. Or make a bag with Comin ſeed and Spikenard, then boil them in red Wine, and apply it to the navel laying a bolſter thereon, bind<g ref="char:EOLhyphen"/>ing it hard with a ſwade band. If the rim of the belly be broke, then uſe thoſe meanes ſet down in the Chapter foregoing.</p>
+               </div>
+            </div>
+            <div n="22" type="chapter">
+               <pb n="49" facs="tcp:118549:27"/>
+               <head>CHAP. 22. Of inflammation of the Navel.</head>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>SOmetime the Navel of the child is inflamed, which happeneth after the cutting of the Navel, and eſpecialy being expoſed to the cold air.</p>
+               </div>
+               <div type="signs">
+                  <head>The Signs.</head>
+                  <p>This is known by ſwelling and hardneſſe of the Navel, by red<g ref="char:EOLhyphen"/>nes, heat and beating thereof.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognoſticks.</head>
+                  <p>If this diſeaſe be taken in time, it is eaſily cured: But if it be not ſoon cured a Fever will follow. If the inflammation turn to an impoſtume and break, and the bowels falling down many times it brings death to the child.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>Let the Navel be anointed with oyl of Roſes, or with ointment of Roſes mixed with Populeon ointment.</p>
+                  <p>Or,</p>
+                  <p>Take of Mallowes boyled and bruiſed one ounce; Barly meal half an ounce, Lupines and Fenegreek in powder of each two drach. with a little oyl of Roſes make a Pultis and apply it.</p>
+                  <p>Or,</p>
+                  <p>Take Spikenard half an ounce, being in powder, Turpentine 3. ounces, with oyl of ſweet Almonds one ounce, make an oyntment and uſe it.</p>
+                  <p>If it come to ſuppuration or matter, Take of Turpentine half an ounce, the yolk of one Egg, oyl of Roſes two ounces; mix them together and uſe it morning and evening.</p>
+                  <p>Or,</p>
+                  <p>Apply a Plaiſter of the oyntment called Diapompholigos, or of the ſame oyntment, and the ointment called Deſicativum Rubrum mixed together.</p>
+               </div>
+            </div>
+            <div n="23" type="chapter">
+               <pb n="50" facs="tcp:118549:28"/>
+               <head>CHAP. 23. Of the ſwelling of the Cods.</head>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>Many times the Cods of children are ſwollen, which may hap<g ref="char:EOLhyphen"/>pen by reaſon of water or wind, and by too much motion of the child.</p>
+                  <p>The ſigns are manifeſt.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognoſticks.</head>
+                  <p>This diſeaſe although it be eaſily cured in children, yet if it be inveterate, many times it proves dangerous, and hinders genera<g ref="char:EOLhyphen"/>tion.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>Let the cods be anointed with oyl of Lillies, oyl of Camomil, or oyl of Dill. Or apply this following.</p>
+                  <p>Take Cow-dung, boyl it in milk, and apply it warm.</p>
+                  <p>Or,</p>
+                  <p>Take a quart of Ale-wort, boyl it with crums of bread leavened, and one ounce of Comin ſeed bruiſed or in powder; with a ſuffi<g ref="char:EOLhyphen"/>cient quantity of Bean flower, make a Pultis and apply it warm.</p>
+                  <p>Or,</p>
+                  <p>Take Linſeed and Fenegreek bruiſed, or in powder, of each one ounce, Camomil and Hollihock bruiſed, or cut ſmall, of each a hand<g ref="char:EOLhyphen"/>ful; boyl them in water, then with a ſufficient quantity of Bean flower make a Pultis, and lay it on warm.</p>
+                  <p>If there be any inflammation, and it be at the beginning, you may take a handful of Plantain leaves, bruiſe it, and with the white and yolk of an Egg, and a little oyl of Roſes make a Pultis, and apply it twiſe in a day.</p>
+                  <p>If the pain be very extream, and the child be ſtrong and of a reaſonable growth, take of Henbane leaves bruiſed one handful, Mallowes as much; boyl them in water till they be tender, then
+<pb n="51" facs="tcp:118549:28"/>
+with Bean flower, Barly flower, oyl of Roſes, and oyl of Camo<g ref="char:EOLhyphen"/>mil, make a Pultis, and apply it warm: otherwiſe if the pain be not very great, uſe no repercuſſives, or ſuch medicines as ſtrike in the humour, or drive the matter back, for that will be dangerous.</p>
+               </div>
+            </div>
+            <div n="24" type="chapter">
+               <head>CHAP. 24. Of falling of the fundament.</head>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>THis diſeaſe happeneth when there is a relaxation, or reſolution of the muſcles which cloſeth the fundament: Now the cauſe hereof is too much moiſtnes &amp; ſoftnes, which doth frequently fol<g ref="char:EOLhyphen"/>low a flux of the belly: or it may come from a ſodain cold, or by too much ſtraining when children go to ſtool, eſpecially when the body is bound whereby the fundament cometh forth and cannot return into his place again; which doth eaſily happen in children, becauſe their bodies are moiſt and ſoft, and the muſcles as yet but looſe and languid, or weak.</p>
+                  <p>The ſigns are manifeſt.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognosticks.</head>
+                  <p>If the fundament fall, or go out by too much ſtraining in going to the ſtool it is more eaſily cured, if means, be uſed in time: But the longer the fundament hath been out, the more harder it will be to reduce it in again.</p>
+                  <p>If it proceed from too much moiſture it is more difficult to cure, eſpecially if the flux of the belly be joyned therewith; for the diſeaſe can hardly be cured till the flux be ſtayed: moreover thoſe neceſſary medicines that are uſed, are not eaſily detained or kept, but are hindered by the excrements coming forth ſo frequently.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>The whole cure of this diſeaſe doth conſiſt in reducing the ſame into it's proper place, and ſo keeping it. Therefore preſently let the
+<pb n="52" facs="tcp:118549:29"/>
+fundament be reduced into his place thus. Take a warm ſoft cloth, and with your hands gently return it into his due place, and then let the childe ſit upon a hot Oaken board; or hold a hot napkin doubled to his fundament, and an other to his belly.</p>
+                  <p>But if there be any tumour or ſwelling about the ſame, make a decoction of Mallowes, Marſhmallowes, and Linſeed, with which bath the fundament warm, and afterwards anoint it with oyl of Lillies warm; or anoint the fundament with oyl of Linſeed warm morning and evening, and ſtrow upon the ſame the powder of white Dogs turd. The powder of burnt bones, and Bean flowr alſo is much commended for the ſame.</p>
+                  <p>Or,</p>
+                  <p>Take red Roſes, Pomegranat flowers, Cypreſſe nuts, Pomegra<g ref="char:EOLhyphen"/>net pills, of each half an ounce, Sumach, Olibanum, Maſtick, of each two drachmes, boyl them in red wine, and bathe the funda<g ref="char:EOLhyphen"/>ment with ſome of it warm; then uſe this following powder. Take red Roſes and Pomgranat flowers, of each half a drachme, Olibanum, Maſtick, and Myrrhe, of each two ſcruples; make all into powder, and being ſtrowed upon Cotten wool, apply it to the fundament; or let the powder be ſtrowed upon hot coles, and let the child ſit over the ſame to receive the fume thereof. Or, take onely Olibanum in powder, and ſtrow it upon hot coles, and let the childe ſit over the fume thereof. The powder following is commended.</p>
+                  <p>Take Galls, Pomegranat rinde, Goats clawes burnt, red Roſes, Acorn cups dryed, Harts horn burnt; make them into powder; ſtrow ſome upon the fundament, and being reduced in it's place, binde on hot Linnen clothes. Give the childe often to eat Marma<g ref="char:EOLhyphen"/>lade of Quinces, or roſted Quince, or warden with Cinamom and Sugar. Let the childes legs and thighs be kept cloſe together for fear of coming forth again.</p>
+                  <p>If the childe be often provoked to go to ſtool, and can expel, or void little or nothing, then that diſeaſe is called Tenaſmus, and may be thus cured.</p>
+                  <p>Take a handful of Garden Creſſes, and half an ounce of Cu<g ref="char:EOLhyphen"/>min ſeed, bruiſe them and fry them in Butter, then lay it hot to the belly, and make a fume below with Turpentine and Pitch, and let the child ſit long upon a board of Cedar or Juniper, as hot as may be.</p>
+               </div>
+            </div>
+            <div n="25" type="chapter">
+               <pb n="53" facs="tcp:118549:29"/>
+               <head>CHAP. 25. Of the Stone, and difficulty of making water.</head>
+               <p>AMong all thoſe diſeaſes that happen to children, theſe two are not the leaſt dangerous. The ſtone in the bladder is moſt frequent in children, for with the ſtone in the Kidneyes they are ſeldom troubled; as on the contrary old men are moſt frequently troubled with the ſtone in the kidneyes.</p>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>The ſtone in children is ingendred, or bred from the milk they ſuck, which if it be impure and corrupt, doth not onely cauſe the ſtone, but many other diſeaſes: or it may come from a groſſe dyet whereby tough humours are bred, eſpecially in ſuch as have weak ſtomacks and hot Kidneyes.</p>
+                  <p>The urine in children may be ſtopt from ſome ſtone bred, or bree<g ref="char:EOLhyphen"/>ding, or from ſome thick and flimy humours ſtopping thoſe parts, (or children that eat much have much crudities, and are ſubject to the ſtone,) or from winde: or it may proceed from the ill quality of the urine, as when it it is too hot, ſharp, or pricking, ſo that the childe is afraid to piſſe, becauſe of the pain it feels when the water comes away: or the abundance of urine in the bladder may ſtop the urine, for thereby the bladder is over-charged, ſo that the Fi<g ref="char:EOLhyphen"/>bres thereof being over ſtretched, cannot draw themſelves toge<g ref="char:EOLhyphen"/>ther to expel the urine, as it happens to thoſe that have kept their water too long.</p>
+               </div>
+               <div type="signs">
+                  <head>The ſigns.</head>
+                  <p>The ſtone in the bladder in children is thus known. They make water with pain, and ſometimes by drops, yea many times the urine is altogether ſuppreſſed. When they do void urine, it is ſome<g ref="char:EOLhyphen"/>times clear as water, ſometimes white as milk, or whey, ſometimes bloody, and ſometimes gravelly, or ſand appeareth therein: more-ſometimes they feel an itching in their yard, from whence they of<g ref="char:EOLhyphen"/>ten put their hands to ſcratch it.</p>
+               </div>
+               <div type="prognosis">
+                  <pb n="54" facs="tcp:118549:30"/>
+                  <head>The Prognoſticks.</head>
+                  <p>The ſtone in the bladders of Children is not to be ſleighted; for although it doth not ſuddenly kill them, yet if it be not in ſome time cured, it proves dangerous, and cannot be cured but by cut<g ref="char:EOLhyphen"/>ting. And truly there is much danger in cutting them, for if the ſtones be great, not only children but alſo perſons of years die ther<g ref="char:EOLhyphen"/>with. Suppreſſion of urine in children is dangerous, eſpecially if it proceed from the ſtone in the bladder.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>For the cure all good means are to be uſed to prevent the breed<g ref="char:EOLhyphen"/>ing of the ſtone. Therefore let not the ſtomach be filled too much with food, and let both nurſe and child avoid all groſſe thick, and tough meats. Let the belly be alwayes kept looſe with ſirup of Roſes ſolutive, Caſſia, &amp;c. Make a bath of the decoction of Mallowes, Marſhmallowes, Pellitory of the wall, Parſly, Dill, Linſed and Fenegreek; bath the child therewith: and after bathing let the places about the bladder be anointed with oyntment of Marſhmallowes, oyl of white Lillies and oyl of Scorpions, of each a like quantity mixed together. And afterwards apply a pultis made with green Pellitory of the wall, boyled in oyl of white Lil<g ref="char:EOLhyphen"/>lies, or oyl of Camomil. Give the child a ſcruple or two of the powder of magiſter of crabs eyes, or of Amber, or Goats blood prepared with Parſly water: or two or three drops of the ſpirit of Vitriol, or 4. or 5. drops of oyl of Crabs eyes in the ſame water: or give morning and evening a ſpoonful or two of Saxifrage, of Sampier water: or you may give half a ſpoonful of ſirup of Marſh<g ref="char:EOLhyphen"/>mallowes morning and evening to the child in poſſet drink.</p>
+                  <p>It will alſo be profitable to give a ſcruple or more of Cipreſſe Turpentine.</p>
+                  <p>If the child be of any bignes give it this following.</p>
+                  <p>Take oyl of ſweet Almonds newly drawn one ounce and a half, Pellitory, or Saxifrage water one ounce, juyce of Lemons a drach. make a potion, and give in a morning faſting.</p>
+                  <p>It is neceſſary that children be cauſed often to piſſe, eſpecially when they awake, as alſo when they are change. And being of
+<pb n="55" facs="tcp:118549:30"/>
+any bigneſſe let them make water before and after they have eat. If it come from ſharpneſſe of the urine, or heat thereof, then let the Nurſe uſe a good dyet, and cool broths, or cool poſſets for to temper the heat of her blood. And if need reqiure let her be let blood, and purged with 3. or 4. ounces of ſirup of Roſes, or with two ounces of Manna taken in poſſet drink.</p>
+               </div>
+            </div>
+            <div n="26" type="chapter">
+               <head>CHAP. 26. Of piſſing in bed.</head>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>THis diſeaſe is frequent with young children, and that becauſe of weakneſſe of the retentive faculty of the reins and bladder, or from debility, weakneſſe of the Sphincter muſcle of the bladder, and alſo becauſe they abound with much moiſture. Sometimes the ſtone in the bladder doth hurt the Sphincter muſcle, that the bladder cannot ſhut, nor well contiane the urine.</p>
+               </div>
+               <div type="signs">
+                  <head>The ſigns.</head>
+                  <p>The ſigns are manifeſt, for the child cannot hold it's water night nor day, but eſpecially it comes from them in their ſleep.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognoſticks.</head>
+                  <p>This diſeaſe although it be not mortal yet it is very troubleſome, and if not cured in time, it continues (in many) till death. If it proceed from the ſtone, it cannot be cured till the ſtone be taken away. This diſeaſe is cured in many when they come to grown years without any means.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>Let the Nurſes dyet be hot and dry. The child muſt drink but little, and let the belly of it be kept looſe, for hereby they piſſe leſſe.</p>
+                  <p>The Weſand of a Cock in powder, is commended, alſo the ſtone of a Hedghog in powder; if a ſcruple or more of either be taken morning and evening in Plantain water. The bladder of a Bull,
+<pb n="56" facs="tcp:118549:31"/>
+or Goat dryed, and in powder, is good to be uſed as before: or give the powder of Goats clawes in Pap, or milk. This follow<g ref="char:EOLhyphen"/>ing powder is commended.</p>
+                  <p>Take a Hogs bladder, or Botes, or ſheeps bladder dryed, the ſtones of a Hare, and the Weſand of a Cock dryed, of each half a drachme. Acorn cups two ſcruples, Nep and Mace, of each a ſcruple; make all into powder, and give hereof a ſcruple, or half a drachme in the diſtilled water of Oaken leaves: or give ten grains, or a ſcruple of Acorn cups in powder, morning and evening in Plantain, or Oaken leafe water.</p>
+                  <p>Or,</p>
+                  <p>Take of the diſtilled water of Mirtles three ounces. Conſerve of Roſes half an ounce, ſirup of dry Roſes, one ounce, mix them together, and give the child often of it being firſt ſhaken together.</p>
+                  <p>Let the place about the bladder be anointed with oyl of Coſtus, oyl of Orris, or ſuch like: or make a Bath of Brimſtone, Nitre, and the leaves of Oak, and uſe it to the back and place about the bladder warm.</p>
+                  <p>If the childe be of ſome reaſonable growth, make a plate of lead with holes therein, and lay it to his back; let it lye on for a moneth or two.</p>
+               </div>
+            </div>
+            <div n="27" type="chapter">
+               <head>CHAP. 27. Of the diſeaſe called St. Anthonies fire, or wilde fire, as alſo of Burning and ſcalding.</head>
+               <p>THis diſeaſe is a great heat and redneſſe that diſperſeth it ſelf over the uppermoſt part of the body; and it is twofold, either onely with heat and redneſſe; or with inflammation, heat and ſmall pimples, and very painful. This the Vulgar call the Shingles.</p>
+               <p>Others are troubled with this diſeaſe as well as children.</p>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>It is cauſed of thin and hot blood, or of blood mingled with Choler.</p>
+               </div>
+               <div type="signs">
+                  <pb n="57" facs="tcp:118549:31"/>
+                  <head>The ſigns.</head>
+                  <p>The ſigns are manifeſt; for there is a redneſſe upon the outward skin, very hot and angry, and many times doth flaſh abroad, if it be not prevented by the uſe of means.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognosticks.</head>
+                  <p>Although many have this diſeaſe without danger, yet the cure hereof muſt not be neglected, leaſt a worſe diſeaſe follow: For as <note n="*" place="bottom">
+                        <hi>Hip. Aph. ſect.</hi> 6. 25.</note>
+                     <hi>Hippocrates</hi> ſaith, if an <hi>Eriſipelas</hi> being outward, be returned inwards, it is evil; but if on the contrary, if being inward it be turned outwards it is a good ſign.</p>
+                  <p>If ſtrong repercuſſive, or repelling means be uſed in the begin<g ref="char:EOLhyphen"/>ning of the diſeaſe, it is dangerous leaſt the humour ſtrike inward, and ſo indanger the life of the party.</p>
+                  <p>If this diſeaſe appear in the head, it is more dangerous then in other parts; becauſe if the matter paſſe to the membranes of the brain, it cauſe a Frenzie, if to the muſcles of the neck, the Quinzie.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>Firſt of all great care muſt be had to uſe ſuch inward means as may expel the matter outward: as give the child a ſcruple of Lon<g ref="char:EOLhyphen"/>don Treacle, or five grains of the powder of Crabs clawes in Car<g ref="char:EOLhyphen"/>duus water. Then uſe outward means, as, take of Plantain wa<g ref="char:EOLhyphen"/>ter, Roſewater, Lettice and Houſleek water, of each one ounce, Vinegar half an ounce, mix them together, and wet Linnen clouts therein, and apply it a little warm, ſo oft as it dryeth up let it be wet again in the ſame, and applyed.</p>
+                  <p>Or</p>
+                  <p>Take of <hi>Galens</hi> cooling oyntment one ounce and a half, oyl of Roſes two ounces, of the oyntment called Populeon one ounce, the juice of Plantain and Nightſhade, of each half an ounce, the white of two or three eggs beaten; mix them altogether, and anoint with it. See more in my book called Help for the Poor, Pag, 14. and 15.</p>
+               </div>
+               <div type="prescription">
+                  <head>Againſt Burning or Scalding.</head>
+                  <p>See my Help for the Poor, page 1, 2, 3, 4, 5, &amp; 6. where you have many eaſie and ſafe medicines.</p>
+               </div>
+            </div>
+            <div n="28" type="chapter">
+               <pb n="58" facs="tcp:118549:32"/>
+               <head>CHAP. 28. Of Fretting, Chafing, or Galling of the Skin in the Groyns.</head>
+               <div type="cause">
+                  <head>The cauſe.</head>
+                  <p>CHildren are much troubled with the skin going off in their groins and thighs; which is cauſed by reaſon of the ſharp<g ref="char:EOLhyphen"/>neſſe of their urine, eſpecially if they be not often changed with freſh linnen.</p>
+               </div>
+               <div type="signs">
+                  <head>The ſigns.</head>
+                  <p>The ſigns are apparent, for the skin is raw, and the child very unquiet therewith.</p>
+               </div>
+               <div type="prognosis">
+                  <head>The Prognoſtiks.</head>
+                  <p>This diſeaſe is not hard to cure, yet becauſe it cauſeth pain, and brings watchings to the childe, if it be not taken in time it cauſeth ulceration in thoſe parts.</p>
+               </div>
+               <div type="cure">
+                  <head>The cure.</head>
+                  <p>The Linnen of the child muſt be often changed, leſt by the wet<g ref="char:EOLhyphen"/>neſſe thereof the diſeaſe be made worſe. Waſh the thighes and buttocks with Plantain water, with Roſe, or Nightſhade water, or make a decoction with Plantain, Shepheards-purſe, Horſetail, and Knotgraſſe, and bathe the place therewith. Or, anoint it with a little Capons greaſe, and lay a Linnen cloth to it: or anoint it with Pomatum, or ſtrow on it the powder of a poſt, or any old wood that is wormeaten, or meal duſt, or Bean flower; or elſe,</p>
+               </div>
+               <div type="prescription">
+                  <head>A powder.</head>
+                  <p>Take red Roſes and Orris root, of each a quarter of an ounce; beat them into powder, and uſe it as before, by ſtrowing it upon the raw places.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="index">
+            <pb facs="tcp:118549:32"/>
+            <head>An Alphabetical Table of all the Diſeaſes in this Treatiſe.</head>
+            <list>
+               <head>B</head>
+               <item>
+                  <hi>Belly, fretting and griping thereof</hi> Page. 31.</item>
+               <item>
+                  <hi>Belly looſe</hi> p. 34.</item>
+               <item>
+                  <hi>Belly ſtopt</hi> p. 38.</item>
+               <item>
+                  <hi>Bed-piſſing therein</hi> p. 55.</item>
+               <item>
+                  <hi>Boeeding of Teeth</hi> p. 10,</item>
+               <item>
+                  <hi>Burning and ſcalding</hi> p. 7.</item>
+               <item>
+                  <hi>Burſting, or Ruptures</hi> p. 45,</item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>
+                  <hi>CHafing and fretting of the groynes</hi> p. 58.</item>
+               <item>
+                  <hi>Cods ſwollen</hi> p. 50.</item>
+               <item>
+                  <hi>Coming forth of the Navel</hi> p. 47.</item>
+               <item>
+                  <hi>Conſumption and leanneſſe</hi> p. 29.</item>
+               <item>
+                  <hi>Convulſion and falling ſickneſſe</hi> p. 6.</item>
+               <item>
+                  <hi>Coſtiveneſſe, or ſtopping of the belly</hi> p. 38.</item>
+            </list>
+            <list>
+               <head>D</head>
+               <item>
+                  <hi>DIfficult making of water</hi> p. 53.</item>
+               <item>
+                  <hi>Dreams and ſtarting.</hi> p. 22.</item>
+            </list>
+            <list>
+               <head>E</head>
+               <item>
+                  <hi>EArs pained and inflamed</hi> p. 9.</item>
+               <item>
+                  <hi>Ears, worms thereof</hi> ibid.</item>
+               <item>
+                  <hi>Ears moiſt</hi> ibid.</item>
+            </list>
+            <list>
+               <head>F</head>
+               <item>
+                  <hi>FAlling of the fundament</hi> p. 51.</item>
+               <item>
+                  <hi>Falling ſickneſſe</hi> p. 16.</item>
+               <item>
+                  <hi>Fear, ſtarting, and terrible dreams</hi> p. 22.</item>
+               <item>
+                  <hi>Fevers</hi> p. 15.</item>
+               <item>
+                  <hi>Flux of the belly</hi> p. 34.</item>
+               <item>
+                  <hi>Fretting in the belly</hi> p. 31.</item>
+               <item>
+                  <hi>Fretting and chafing of the groyns</hi> p. 58.</item>
+               <item>
+                  <hi>Fundament fallen</hi> p. 51.</item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>
+                  <hi>GAlling of the skin in the groynes</hi> p. 78.</item>
+               <item>
+                  <hi>Gripings and frettings of the belly</hi> p. 31.</item>
+               <item>
+                  <hi>Groynes chafed, or galled</hi> p. 58.</item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>
+                  <hi>HEads of children ſore</hi> p. 1.</item>
+               <item>
+                  <hi>Hicket</hi> p. 30.</item>
+            </list>
+            <list>
+               <head>I</head>
+               <item>
+                  <hi>INflammation of the ears</hi> p. 9.</item>
+               <item>
+                  <hi>Inflammation of the mouth and throat</hi> p. 12.</item>
+               <item>
+                  <hi>Inflammation of the Navel</hi> p. 49.</item>
+               <item>
+                  <hi>Itch and Scab</hi> p. 5.</item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>
+                  <hi>LEanneſſe</hi> p. 29.</item>
+               <item>
+                  <hi>Lice breeding</hi> p. 3.</item>
+               <item>
+                  <hi>Looſeneſſe of the belly</hi> p. 34.</item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>
+                  <hi>MEaſels and ſmall Pox</hi> p. 17.</item>
+               <item>
+                  <hi>Mouth inflamed</hi> p. 13.</item>
+            </list>
+            <list>
+               <head>N</head>
+               <item>
+                  <hi>NAvel ſwollen, or coming forth</hi> p. 47.</item>
+               <item>
+                  <hi>Navel inflamed</hi> p. 49.</item>
+            </list>
+            <list>
+               <head>O</head>
+               <item>
+                  <hi>Often going to ſtool</hi> p. 52.</item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>
+                  <hi>Piſſing in bed</hi> p. 55</item>
+               <item>
+                  <hi>Pox and Meaſels</hi> p. 17</item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>
+                  <hi>REſt wanting</hi> p. 20.</item>
+               <item>
+                  <hi>Rickets</hi> p. 30.</item>
+               <item>
+                  <hi>Rupture, or Burſting</hi> p. 45.</item>
+            </list>
+            <list>
+               <pb facs="tcp:118549:33"/>
+               <head>S</head>
+               <item>
+                  <hi>SCab and Itch</hi> p. 5.</item>
+               <item>
+                  <hi>Scalding and burning</hi> p. 57.</item>
+               <item>
+                  <hi>Sores in the head</hi> p. 1.</item>
+               <item>
+                  <hi>Starting and terrible dreams</hi> p. 22.</item>
+               <item>
+                  <hi>Stomach weak</hi> p. 26.</item>
+               <item>
+                  <hi>Stopping of the belly</hi> p. 38.</item>
+               <item>
+                  <hi>Stone</hi> p. 53.</item>
+               <item>
+                  <hi>Swelling of the Navel</hi> p. 47.</item>
+               <item>
+                  <hi>Swelling of the Cods</hi> p. 50.</item>
+            </list>
+            <list>
+               <head>T</head>
+               <item>
+                  <hi>TEneſmus, or often provoking to ſtool</hi> p. 52.</item>
+               <item>
+                  <hi>Teeth breeding</hi> p. 10.</item>
+               <item>
+                  <hi>Throat ſore and inflamed</hi> p. 13.</item>
+            </list>
+            <list>
+               <head>V</head>
+               <item>
+                  <hi>ULcers and ſores in the head</hi> p. 1.</item>
+               <item>
+                  <hi>Ulcers of the ears</hi> p. 9.</item>
+               <item>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>lcers of the mouth and throat</hi> p. 13.</item>
+               <item>
+                  <hi>Vomiting and weakneſſe of the ſtomach</hi> p. 26.</item>
+            </list>
+            <list>
+               <head>VV</head>
+               <item>
+                  <hi>VVAter difficult making ther<g ref="char:EOLhyphen"/>of</hi> p. 53.</item>
+               <item>
+                  <hi>Watching out of meaſure, and want of reſt</hi> p. 20.</item>
+               <item>
+                  <hi>Weakneſſe of the ſtomach</hi> p. 26.</item>
+               <item>
+                  <hi>Wilde fire</hi> p. 56.</item>
+               <item>
+                  <hi>Worms</hi> p. 40.</item>
+               <item>
+                  <hi>Worms in the eares</hi> p. 9.</item>
+               <item>
+                  <hi>Worms of the heart, liver, &amp;c.</hi> p. 42.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
